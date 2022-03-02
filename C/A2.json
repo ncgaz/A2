@@ -1,69 +1,84 @@
 {
-  "rows" : [
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-83.1061111111111, 35.65]
-  },
-  "properties": {
-    "lable": "Bald Gap",
-    "description": "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.",
-    "feature_type" : "Gap",
-    "county" : "Haywood County"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-83.1083333333333, 35.65]
-  },
-  "properties": {
-    "lable": "Bald Top",
-    "description": "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.",
-    "feature_type" : "Top",
-    "county" : "Haywood County"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-83.1916666666667, 35.6583333333333]
-  },
-  "properties": {
-    "lable": "Beech Creek",
-    "description": "rises in W Haywood County near lat. 35°39'30\" N., long. 83°11'30\" W., on E slope of Balsam High Top, and flows SE to join Falling Creek in forming Palmer Creek.",
-    "feature_type" : "Creek",
-    "county" : "Haywood County"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-83.0416666666667, 35.6347222222222]
-  },
-  "properties": {
-    "lable": "Bent Knee Knob",
-    "description": "on the head of Stevens Creek, N Haywood County, near lat. 35°38'05\" N., long. 83°02'30\" W., in Great Smoky Mountains National Park. Alt. 4,000.",
-    "feature_type" : "Knob",
-    "county" : "Haywood County"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-83.1694444444445, 35.6722222222222]
-  },
-  "properties": {
-    "lable": "Big Butt Mountain",
-    "description": "W Haywood County in Great Smoky Mountains National Park. On Mount Sterling Ridge near lat. 35°40'20\" N., long. 83°10'10\" W.",
-    "feature_type" : "Mountain",
-    "county" : "Haywood County"
-  }
-}
+  "rows": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1061111111111,
+          35.65
+        ]
+      },
+      "properties": {
+        "lable": "Bald Gap",
+        "description": "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.",
+        "feature_type": "Gap",
+        "county": "Haywood County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1083333333333,
+          35.65
+        ]
+      },
+      "properties": {
+        "lable": "Bald Top",
+        "description": "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.",
+        "feature_type": "Top",
+        "county": "Haywood County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1916666666667,
+          35.6583333333333
+        ]
+      },
+      "properties": {
+        "lable": "Beech Creek",
+        "description": "rises in W Haywood County near lat. 35°39'30\" N., long. 83°11'30\" W., on E slope of Balsam High Top, and flows SE to join Falling Creek in forming Palmer Creek.",
+        "feature_type": "Creek",
+        "county": "Haywood County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0416666666667,
+          35.6347222222222
+        ]
+      },
+      "properties": {
+        "lable": "Bent Knee Knob",
+        "description": "on the head of Stevens Creek, N Haywood County, near lat. 35°38'05\" N., long. 83°02'30\" W., in Great Smoky Mountains National Park. Alt. 4,000.",
+        "feature_type": "Knob",
+        "county": "Haywood County"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1694444444445,
+          35.6722222222222
+        ]
+      },
+      "properties": {
+        "lable": "Big Butt Mountain",
+        "description": "W Haywood County in Great Smoky Mountains National Park. On Mount Sterling Ridge near lat. 35°40'20\" N., long. 83°10'10\" W.",
+        "feature_type": "Mountain",
+        "county": "Haywood County"
+      }
+    }
   ]
 }

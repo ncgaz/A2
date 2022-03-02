@@ -5,35 +5,35 @@
 @prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
 @prefix wd:      <http://www.wikidata.org/entity/> .
 
-ncg:place2  a                nct:gap ;
+ncg:place2  a                nct:Gap ;
         ncv:county           "Haywood County" ;
         ncv:national_park    wd:Q464004 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat 35°39' N long 83°06'22 W" ;
         skos:prefLabel       "Bald Gap" ;
         geojson:coordinates  ( -83.1061111111111 35.65 ) .
 
-ncg:place5  a                nct:mountain ;
+ncg:place5  a                nct:Mountain ;
         ncv:county           "Haywood County" , "Swain County" ;
         ncv:national_park    wd:Q464004 ;
         skos:note            "mountain on the Haywood-Swain county line In Great Smoky Mountains National Park near lat 35°40'17 N long 83°10'55 W near a sharp bend in the county line hence the name Alt 6020" ;
         skos:prefLabel       "Balsam Corner" ;
         geojson:coordinates  ( -83.1819444444445 35.6713888888889 ) .
 
-ncg:place3  a                nct:mountains ;
+ncg:place3  a                nct:Mountains ;
         ncv:county           "Haywood County" , "Yancey County" , "Madison County" ;
         ncv:historical_name  "Max Patch" ;
         skos:note            "in Haywood Madison and Yancey Counties NC and Cocke Greene and Unicoi Counties Tenn forming the common boundary line of North Carolina and Tennessee from the Pigeon River near lat 36°04'20 N long 82°24'30 W to the Nolichucky River near lat 35°46'15 N long 83°04'50 W On 25 of 40 miscellaneous maps 1795-1930 the section of the mountains between Pigeon River and the French Broad River bears no name; and the names on 15 maps vary between Iron Great Iron Smoky and Great Smoky There is also some usage of Max Patch" ;
         skos:prefLabel       "Bald Mountains" ;
         geojson:coordinates  ( -83.0805555555556 35.7708333333333 ) .
 
-ncg:place1  a                nct:ridge ;
+ncg:place1  a                nct:Ridge ;
         ncv:county           "Swain County" ;
         ncv:mountain_range   wd:Q1360486 ;
         skos:note            "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat 35°32'50 N long 83°46'20 W" ;
         skos:prefLabel       "Asgini Ridge" ;
         geojson:coordinates  ( -83.7722222222222 35.5472222222222 ) .
 
-ncg:place4  a                nct:top ;
+ncg:place4  a                nct:Top ;
         ncv:county           "Haywood County" ;
         ncv:national_park    wd:Q464004 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat 35°39' N long 83°06'30 W Alt 3960" ;

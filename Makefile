@@ -15,5 +15,11 @@ JSONLD := $(foreach d,$(DIRS),$(d)/formatted/A2.jsonld)
 	mkdir -p $*/formatted
 	jq . $< > $@
 
+%/A2.jsonld11: %/A2.jsonld
+	cp $< $@
+
+%/A2.jsonld.ttl: %/A2.jsonld11
+	riot --formatted=ttl $< > $@
+
 .PHONY: format
 format: $(JSON) $(TTL) $(JSONLD)

@@ -1,76 +1,98 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
     {
-      "type" : "Feature",
+      "type": "Feature",
       "geometry": {
-               "type": "Point",
-               "coordinates": [-83.7722222222222, 35.5472222222222] 
-           },
-      "properties" : {
-      "label" : "Asgini Ridge",
-      "description" : "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W.",
-      "feature_type" : "Ridge",
-      "county" : ["Swain County"]
-    }
-}
-,
+        "type": "Point",
+        "coordinates": [
+          -83.7722222222222,
+          35.5472222222222
+        ]
+      },
+      "properties": {
+        "label": "Asgini Ridge",
+        "description": "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W.",
+        "feature_type": "Ridge",
+        "county": [
+          "Swain County"
+        ]
+      }
+    },
     {
-      "type" : "Feature",
+      "type": "Feature",
       "geometry": {
-               "type": "Point",
-               "coordinates": [-83.1061111111111, 35.65] 
-           },
-      "properties" : {
-      "label" : "Bald Gap",
-      "description" : "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.",
-      "feature_type" : "Gap",
-      "county" : ["Haywood County"]
-    }
-}
-,
+        "type": "Point",
+        "coordinates": [
+          -83.1061111111111,
+          35.65
+        ]
+      },
+      "properties": {
+        "label": "Bald Gap",
+        "description": "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.",
+        "feature_type": "Gap",
+        "county": [
+          "Haywood County"
+        ]
+      }
+    },
     {
-      "type" : "Feature",
+      "type": "Feature",
       "geometry": {
-               "type": "Point",
-               "coordinates": [-83.0805555555556, 35.7708333333333] 
-           },
-      "properties" : {
-      "label" : "Bald Mountains",
-      "description" : "in Haywood, Madison, and Yancey Counties, N.C., and Cocke, Greene, and Unicoi Counties, Tenn., forming the common boundary line of North Carolina and Tennessee from the Pigeon River, near lat. 36°04'20\" N., long. 82°24'30\" W., to the Nolichucky River, near lat. 35°46'15\" N., long. 83°04'50\" W. On 25 of 40 miscellaneous maps, 1795-1930, the section of the mountains between Pigeon River and the French Broad River bears no name; and the names on 15 maps vary between Iron, Great Iron, Smoky, and Great Smoky. There is also some usage of Max Patch.",
-      "feature_type" : "Mountains",
-      "county" : ["Madison County", "Yancey County", "Haywood County"]
-    }
-}
-,
+        "type": "Point",
+        "coordinates": [
+          -83.0805555555556,
+          35.7708333333333
+        ]
+      },
+      "properties": {
+        "label": "Bald Mountains",
+        "description": "in Haywood, Madison, and Yancey Counties, N.C., and Cocke, Greene, and Unicoi Counties, Tenn., forming the common boundary line of North Carolina and Tennessee from the Pigeon River, near lat. 36°04'20\" N., long. 82°24'30\" W., to the Nolichucky River, near lat. 35°46'15\" N., long. 83°04'50\" W. On 25 of 40 miscellaneous maps, 1795-1930, the section of the mountains between Pigeon River and the French Broad River bears no name; and the names on 15 maps vary between Iron, Great Iron, Smoky, and Great Smoky. There is also some usage of Max Patch.",
+        "feature_type": "Mountains",
+        "county": [
+          "Madison County",
+          "Yancey County",
+          "Haywood County"
+        ]
+      }
+    },
     {
-      "type" : "Feature",
+      "type": "Feature",
       "geometry": {
-               "type": "Point",
-               "coordinates": [-83.1083333333333, 35.65] 
-           },
-      "properties" : {
-      "label" : "Bald Top",
-      "description" : "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.",
-      "feature_type" : "Top",
-      "county" : ["Haywood County"]
-    }
-}
-,
+        "type": "Point",
+        "coordinates": [
+          -83.1083333333333,
+          35.65
+        ]
+      },
+      "properties": {
+        "label": "Bald Top",
+        "description": "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.",
+        "feature_type": "Top",
+        "county": [
+          "Haywood County"
+        ]
+      }
+    },
     {
-      "type" : "Feature",
+      "type": "Feature",
       "geometry": {
-               "type": "Point",
-               "coordinates": [-83.1819444444445, 35.6713888888889] 
-           },
-      "properties" : {
-      "label" : "Balsam Corner",
-      "description" : "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020.",
-      "feature_type" : "Mountain",
-      "county" : ["Swain County", "Haywood County"]
+        "type": "Point",
+        "coordinates": [
+          -83.1819444444445,
+          35.6713888888889
+        ]
+      },
+      "properties": {
+        "label": "Balsam Corner",
+        "description": "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020.",
+        "feature_type": "Mountain",
+        "county": [
+          "Swain County",
+          "Haywood County"
+        ]
+      }
     }
-}
-
   ]
 }

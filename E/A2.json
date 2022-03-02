@@ -1,0 +1,108 @@
+{
+  "placenames" : [
+      {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.6713888888889,-83.1819444444445]
+      },
+      "properties" : {
+        "label" : "Balsam Corner",
+        "description" : "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020.",
+        "feature_type" : "Mountain",
+        "counties" : ["Swain County","Haywood County"]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.6522222222222,-83.1033333333333]
+      },
+      "properties" : {
+        "label" : "Coggins Branch",
+        "description" : "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°39'08\" N., long. 83°06'12\" W., and flows NE into Little Cataloochee Creek.",
+        "feature_type" : "Branch",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.675,-83.1605555555556]
+      },
+      "properties" : {
+        "label" : "Cooks Creek",
+        "description" : "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'30\" N., long. 83°09'38\" W., and flows SE into Pretty Hollow Creek.",
+        "feature_type" : "Creek",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.6577777777778,-83.145]
+      },
+      "properties" : {
+        "label" : "Cooks Knob",
+        "description" : "W Haywood County, Great Smoky Mountains National Park near lat. 35°39'28\" N., long. 83°08'42\" W., on Indian Ridge between Short Bung (ridge) and Davidson Branch.",
+        "feature_type" : "Knob",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.7013888888889,-83.1183333333333]
+      },
+      "properties" : {
+        "label" : "Correll Branch",
+        "description" : "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°42'05\" N., long. 83°07'06\" W., and flows SE into Little Cataloochee Creek. The stream has also been known as North Prong.",
+        "feature_type" : "Branch",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.7297222222222,-83.1866666666667]
+      },
+      "properties" : {
+        "label" : "Cosby Knob",
+        "description" : "on the Haywood County, N.C.-Cocke County, Tenn., line, Great Smoky Mountains National Park, on the Great Smoky Mountains divide near lat. 35°43'47\" N., long. 83°11'12\" W. Alt. 5,145.",
+        "feature_type" : "Knob",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.6311111111111,-83.0472222222222]
+      },
+      "properties" : {
+        "label" : "Cove Creek Gap",
+        "description" : "central Haywood County, Great Smoky Mountains National Park near lat. 35°37'52\" N., long. 83°02'50\" W., at the head of Winding Stair Branch. Alt. 4,071.",
+        "feature_type" : "Gap",
+        "counties" : ["Haywood County",""]
+      }
+    },
+    {
+      "type" : "Feature",
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [35.6927777777778,-83.0855555555555]
+      },
+      "properties" : {
+        "label" : "Scottish Mountain",
+        "description" : "W Haywood County in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°05'08\" W. Named for Scottish Mountain Lumber Co., which operated in the area in the 1920s. Alt. 4,290.",
+        "feature_type" : "Mountain",
+        "counties" : ["Haywood County",""]
+      }
+    }
+  ]
+}

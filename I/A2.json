@@ -1,0 +1,40 @@
+    {
+      "label" : "Beech Creek",
+      "description" : "rises in W Haywood County near lat. 35°39'30\" N., long. 83°11'30\" W., on E slope of Balsam High Top, and flows SE to join Falling Creek in forming Palmer Creek.",
+      "latitude" : 35.6583333333333,
+      "longitude" : -83.1916666666667,
+      "feature_type" : "Creek",
+      "county" : "Haywood County"
+    },
+    {
+      "label" : "Big Cataloochee Mountain",
+      "description" : "W Haywood County in Great Smoky Mountains National Park. A Balsam Mountain peak, alt. 6,122, near lat. 35°40'25\" N., long. 83°10'27\" W. Known briefly in the 1890s as Nibb's Knob after a member of the U.S. Geological Survey party attempted to name the peak for himself.",
+      "latitude" : 35.6736111111111,
+      "longitude" : -83.1741666666667,
+      "feature_type" : "Mountain",
+      "county" : "Haywood County"
+    },
+    {
+      "label" : "Big Fork Ridge",
+      "description" : "W Haywood County in Great Smoky Mountains National Park, extending NE from Cataloochee Balsam; a Balsam Mountain summit between Rough Fork and Caldwell Fork. Center near lat. 35°35'40\" N., long. 83°07'30\" W.",
+      "latitude" : 35.5944444444445,
+      "longitude" : -83.125,
+      "feature_type" : "Ridge",
+      "county" : "Haywood County"
+    },
+    {
+      "label" : "Blockhouse Mountain",
+      "description" : "NW Swain County in Great Smoky Mountains National Park on Jenkins Trail Ridge near lat. 35°33' N., long. 83°42'35\" W. Alt. 5,425.",
+      "latitude" : 35.55,
+      "longitude" : -83.7097222222222,
+      "feature_type" : "Mountain",
+      "county" : "Swain County"
+    },
+    {
+      "label" : "Dashoga Ridge",
+      "description" : "NE Swain County in Great Smoky Mountains National Park. Its center is near lat. 35°40'40\" N., long. 83°14'55\" W.",
+      "latitude" : 35.6777777777778,
+      "longitude" : -83.2486111111111,
+      "feature_type" : "Ridge",
+      "county" : "Swain County"
+    }

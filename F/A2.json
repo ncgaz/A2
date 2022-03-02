@@ -1,0 +1,2005 @@
+{
+   "placenames" : [
+        {
+        "type" : "Feature",
+        "geometry" : [
+	"type" : "Point",
+	"coordinates": [35.671388888888889,-83.181994444445]
+        },
+        "properties" :  {
+          "label" : "Balsam Corner",
+"description" : "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35"40'17\" N.,
+long.83"10'55\"W., near a sharp bend in the county line, hence the
+name. Alt. 6,020.", "feature_type" : "Mountain",
+        "counties" : ["Swain County","Haywood County"]
+        }
+        },
+        {
+        "type" : "Feature",
+        "geometry" : [
+"type" : "Point",
+"coordinates": [35.6522222222222,-83.103333333333]
+}, {
+ 35°39'30" High Top, Creek.",
+"properties" : {
+"label" : "Coggins Branch",
+"description" : "rises in W Haywood County near lat.
+N., long. 83°11'30" W., on E slope of Balsam
+and flows SE to join Falling Creek in
+forming Palmer
+"feature_type" : "Branch", "counties" : ["Haywood County",""] }
+]
+"type" : "Feature",
+"geometry" : [
+"type" : "Point",
+"coordinates": [35.675,-83.103333333333]
+}
+]
+""properties" :  {
+  "label" : "Cooks Creek",
+"description" : "W Haywood County Great Smoky Mountains National park, rises near lat. 35'40'30\"N, long 83'89'38 W and flows SE into pretty Hollow Creek.",
+"feature_type" : "Creek",
+
+        "counties" : ["Haywood County",""]
+        }
+        {
+        "type" : "Feature",
+        "geometry" : [
+          "type" : "Point",
+"coordinates": [35.675,-83.145] }
+        {
+          "properties" : {
+"Label": "Cooks knob",
+"description": "W Haywood county is near National park lat.
+35'29'28\ N. long. 83'09'38 and near Davidson branch" "feature_type": "Knob",
+        "countries":[Haywood County,"]
+    skos:prefdLabel "Asgini Ridge";
+skos:note "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W.";
+
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54722222222220";
+ncv:long "-83.77222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:1>
+   skos:prefdLabel "Bald Gap";
+   skos:note "W Haywood County in Great Smoky Mountains National Park
+ between Canadian Top and Bald Top 83°06'22\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65";
+ncv:long "-83.1061111111111" ];
+<http://www.w3.org/1999/02/22 {{jsonize(cells["feature type"].value) ,
+<ncg:2>
+   skos:prefdLabel "Bald Mountains";
+skos:note "in Haywood, Madison, and Yancey Counties, N.C., and Cocke, Greene, and Unicoi Counties, Tenn., forming the common boundary line of North Carolina and Tennessee from the Pigeon River, near lat. 36°04'20\" N., long. 82°24'30\" W., to the Nolichucky River, near lat. 35°46'15\" N., long. 83°04'50\" W. On 25 of 40 miscellaneous maps, 1795-1930, the section of the mountains between Pigeon River and the French Broad River bears no name; and the names on 15 maps vary between Iron, Great Iron, Smoky, and Great Smoky. There is also some usage of Max Patch.";
+   ncv:county "Madison County|Yancey County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.770833333333300";
+ncv:long "-83.08055555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:3>
+   skos:prefdLabel "Bald Top";
+skos:note "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65";
+ncv:long "-83.10833333333330" ];
+near lat. 35°39' N., long.
+-rdf-syntax-ns#type>
+
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:4>
+   skos:prefdLabel "Balsam Corner";
+skos:note "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.671388888888900";
+ncv:long "-83.18194444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:5>
+   skos:prefdLabel "Balsam Mountain";
+skos:note "on the Haywood-Swain-Jackson county line, centering near lat. 35°35' N., long. 83°12' W. Tricorner Knob, which see, is at its junction with the main divide of the Great Smoky Mountains. Also known as Chiltoskie Ridge in Swain County. See also Richland Balsam.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.583333333333300";
+ncv:long "-83.2" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:6>
+   skos:prefdLabel "Beech Creek";
+skos:note "rises in W Haywood County near lat. 35°39'30\" N., long. 83°11'30\" W., on E slope of Balsam High Top, and flows SE to join Falling Creek in forming Palmer Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65833333333330";
+ncv:long "-83.19166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:7>
+   skos:prefdLabel "Bennetts Millpond";
+skos:note "on Rockyhock Creek in central Chowan County. Formed about 1856. 2 mi. long and 1⁄3 mi. wide, centering near lat. 36°09'10\" N., long. 76°39'40\" W. Covers approx. 50 acres. Max. depth 6 to 8 ft. Probably named for William Bennett (d. 1785), an early owner of the
+ 
+site.";
+ncv:county "Chowan County"; geojson:coordinates [
+ncv:lat "36.15277777777780";
+ncv:long "-76.66111111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:8>
+   skos:prefdLabel "Bent Knee Knob";
+skos:note "on the head of Stevens Creek, N Haywood County, near lat. 35°38'05\" N., long. 83°02'30\" W., in Great Smoky Mountains National Park. Alt. 4,000.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.63472222222220";
+ncv:long "-83.04166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:9>
+   skos:prefdLabel "Big Butt Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park. On Mount Sterling Ridge near lat. 35°40'20\" N., long. 83°10'10\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.67222222222220";
+ncv:long "-83.16944444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:10>
+   skos:prefdLabel "Big Cataloochee Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park. A Balsam Mountain peak, alt. 6,122, near lat. 35°40'25\" N., long. 83°10'27\" W. Known briefly in the 1890s as Nibb's Knob after a member of the U.S. Geological Survey party attempted to name the peak for himself.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.67361111111110";
+ncv:long "-83.17416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:11>
+ 
+   skos:prefdLabel "Big Fork Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, extending NE from Cataloochee Balsam; a Balsam Mountain summit between Rough Fork and Caldwell Fork. Center near lat. 35°35'40\" N., long. 83°07'30\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.59444444444450";
+ncv:long "-83.125" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:12>
+   skos:prefdLabel "Big Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park. A short spur of Big Fork Ridge extending SE near lat. 35°34'50\" N., long. 83°08' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.580555555555600";
+ncv:long "-83.13333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:13>
+   skos:prefdLabel "Black Mountain Gap";
+skos:note "about 1⁄4 mi. NW of Bald Knob, between the Black Mountain on the N and the Blue Ridge on the S on the Buncombe-Yancey county line. Lat. 35°43' N., long. 82°16'45\" W. Known originally as Beech Gap, later as Swannanoa Gap, and finally since 1949 by its present name. Alt. approx. 5,200.";
+   ncv:county "Yancey County|Buncombe County";
+   geojson:coordinates [
+ncv:lat "35.71666666666670";
+ncv:long "-82.27916666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:14>
+   skos:prefdLabel "Blockhouse Mountain";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Jenkins Trail Ridge near lat. 35°33' N., long. 83°42'35\" W. Alt. 5,425.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55";
+ncv:long "-83.70972222222220"
+ 
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:15>
+   skos:prefdLabel "Blockhouse Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park, a spur of Jenkins Trail Ridge extending SE from Blockhouse Mountain near lat. 35°32'40\" N., long. 83°41'15\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.544444444444400";
+ncv:long "-83.6875" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:16>
+   skos:prefdLabel "Blue Ridge Parkway";
+skos:note "W Haywood County, Great Smoky Mountains National Park, extends SE from Cataloochee Balsam; a Balsam Mountain peak between Straight Creek and Caldwell Fork, center near lat. 35°34'30\" N., long. 83°08'40\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.575";
+ncv:long "-83.14444444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:17>
+   skos:prefdLabel "Brier Knob";
+skos:note "on Swain County, N.C.-Blount County, Tenn., line in Great Smoky Mountains National Park near lat. 35°34'15\" N., long. 83°40'48\" W. Alt. 5,225.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.57083333333330";
+ncv:long "-83.68" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:18>
+   skos:prefdLabel "Brier Lick Gap";
+skos:note "on Swain County, N.C.-Blount County, Tenn., line in Great Smoky Mountains National Park near lat. 35°32'00\" N., long. 83°49'42\" W.";
+   ncv:county "Swain County";
+ 
+geojson:coordinates [
+ncv:lat "35.53333333333330"; ncv:long "-83.82833333333330"
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:19>
+   skos:prefdLabel "Buck Gap";
+skos:note "on the Swain County, N.C.-Blount County, Tenn., line in Great Smoky Mountains National Park near lat. 35°32'03\" N., long. 83°49'20\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.534166666666700";
+ncv:long "-83.82222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:20>
+   skos:prefdLabel "Burnt Spruce Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending SE from Noland Ridge near lat. 35°32'30\" N., long. 83°26'20\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.541666666666700";
+ncv:long "-83.4388888888889" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:21>
+   skos:prefdLabel "Butt Mountain";
+skos:note "W Henderson County in Great Smoky Mountains National Park, a spur extending SE from Big Butt Mountain on Mount Sterling Ridge, near lat. 35°39'20\" N., long. 83°09'10\" W.";
+   ncv:county "Henderson County";
+   geojson:coordinates [
+ncv:lat "35.65555555555560";
+ncv:long "-83.15277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:22>
+   skos:prefdLabel "Camel Hump Knob";
+skos:note "a peak in Great Smoky Mountains National Park on the line between Haywood County, N.C., and Cocke County, Tenn., near lat.
+ 
+35°43'33\" N., long. 83°13' W. Alt. 5,200-5,250."; ncv:county "Haywood County"; geojson:coordinates [
+ncv:lat "35.725833333333300";
+ncv:long "-83.21666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:23>
+   skos:prefdLabel "Canadian Top";
+skos:note "peak in W Haywood County, Great Smoky Mountains National Park, near lat. 35°38'55\" N., long. 83°06'13\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.64861111111110";
+ncv:long "-83.1036111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:24>
+   skos:prefdLabel "Carrol Gap";
+   skos:note "near the SE base of Carroll Mountain, W Clay County
+ between the headwaters of Sweetwater and Qualls Creeks 35°02'45\" N., long. 83°51'20\" W.";
+   ncv:county "Clay County";
+   geojson:coordinates [
+ncv:lat "35.045833333333300";
+ncv:long "-83.85555555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:25>
+near lat.
+skos:prefdLabel "Carroll Branch";
+skos:note "rises in W Clay County on the E slope of Carroll Knob
+and flows S into Carroll Lake near lat. 35°03'45\" N., 83°54'53\" W., in Nantahala National Forest.";
+ncv:county "Clay County"; geojson:coordinates [ ncv:lat "35.0625";
+ncv:long "-83.91472222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:26>
+long.
+skos:prefdLabel "Chestnut Branch";
+skos:note "rises in N Haywood County near lat. 35°45'15\" N., long.
+
+83°09'45\" W., and flows E into Big Creek."; ncv:county "Haywood County"; geojson:coordinates [
+ncv:lat "35.75416666666670";
+ncv:long "-83.16250000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:27>
+   skos:prefdLabel "Chiltoes Mountain";
+skos:note "on Haywood-Swain county line in Great Smoky Mountains National Park. Located at NE end of Balsam Mountain near lat. 35°35'56\" N., long. 83°11'09\" W. Alt. 5,888.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.598888888888900";
+ncv:long "-83.18583333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:28>
+   skos:prefdLabel "Coggins Branch";
+skos:note "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°39'08\" N., long. 83°06'12\" W., and flows NE into Little Cataloochee Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65222222222220";
+ncv:long "-83.10333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:29>
+   skos:prefdLabel "Cooks Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'30\" N., long. 83°09'38\" W., and flows SE into Pretty Hollow Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.675";
+ncv:long "-83.16055555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:30>
+   skos:prefdLabel "Cooks Knob";
+ 
+skos:note "W Haywood County, Great Smoky Mountains National Park near lat. 35°39'28\" N., long. 83°08'42\" W., on Indian Ridge between Short Bung (ridge) and Davidson Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.657777777777800";
+ncv:long "-83.14500000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:31>
+   skos:prefdLabel "Correll Branch";
+skos:note "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°42'05\" N., long. 83°07'06\" W., and flows SE into Little Cataloochee Creek. The stream has also been known as North Prong.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.70138888888890";
+ncv:long "-83.11833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:32>
+   skos:prefdLabel "Cosby Knob";
+skos:note "on the Haywood County, N.C.-Cocke County, Tenn., line, Great Smoky Mountains National Park, on the Great Smoky Mountains divide near lat. 35°43'47\" N., long. 83°11'12\" W. Alt. 5,145.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.72972222222220";
+ncv:long "-83.18666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:33>
+   skos:prefdLabel "Courthouse Knob";
+skos:note "N peak of Richland Mountains in N Buncombe County near lat. 35°41' N., long. 82°27'30\" W.";
+   ncv:county "Buncombe County";
+   geojson:coordinates [
+ncv:lat "35.68333333333330";
+ncv:long "-82.45833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+ 
+<ncg:34>
+   skos:prefdLabel "Cove Creek Gap";
+   skos:note "central Haywood County, Great Smoky Mountains National
+Park near lat. 35°37'52\" N., long. 83°02'50\" W., at the head of Winding Stair Branch. Alt. 4,071.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.63111111111110";
+ncv:long "-83.04722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:35>
+   skos:prefdLabel "Dashoga Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park. Its center is near lat. 35°40'40\" N., long. 83°14'55\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.67777777777780";
+ncv:long "-83.24861111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:36>
+   skos:prefdLabel "Davenport Gap";
+skos:note "a wind gap in Great Smoky Mountains where the North Carolina-Tennessee boundary crosses the NE boundary of Great Smoky Mountains National Park, Haywood County, N.C., and Cocke County, Tenn., near lat. 35°46'30\" N., long. 83°6'30\" W. Named in honor of Col. William Davenport, who in 1821 marked a stone on the \"north side of Cataloochee Turnpike Road\" as the starting point of his survey of the Tennessee-North Carolina state line.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.775";
+ncv:long "-83.10833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:37>
+   skos:prefdLabel "Deer Creek Gap";
+skos:note "on the Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°43'04\" N., long. 83°15' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.717777777777800";
+ 
+ncv:long "-83.25" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:38>
+   skos:prefdLabel "Double Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park on Cataloochee Divide near lat. 35°34'17\" N., long. 83°06' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.57138888888890";
+ncv:long "-83.1" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:39>
+   skos:prefdLabel "Double Gap Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur of Cataloochee Divide extending NW near lat. 35°34'45\" N., long. 83°06'12\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.57916666666670";
+ncv:long "-83.10333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:40>
+   skos:prefdLabel "Dude Branch";
+skos:note "rises in W Haywood County in Great Smoky Mountains National Park near lat. 35°41'45\" N., long. 83°07'08\" W., and flows SE into Correll Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.69583333333330";
+ncv:long "-83.11888888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:41>
+   skos:prefdLabel "Falling Rock Creek";
+skos:note "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°36'56\" N., long. 83°10'40\" W. Flows NE to join Beech Creek in forming Palmer Creek. Named when an overhanging rock cliff on a stream where hunters, fishermen, and others camped fell after being heated by a big campfire. One person was killed and
+ 
+others were injured."; ncv:county "Haywood County"; geojson:coordinates [
+ncv:lat "35.61555555555560";
+ncv:long "-83.17777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:42>
+   skos:prefdLabel "Flat Springs Knob";
+skos:note "on the Buncombe-Yancey county line NE of Flat Springs Gap at lat. 35°47'30\" N., long. 82°20'30\" W. Alt. 5,700-5,800. Sometimes also known as Flattop.";
+   ncv:county "Yancey County|Buncombe County";
+   geojson:coordinates [
+ncv:lat "35.791666666666700";
+ncv:long "-82.34166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:43>
+   skos:prefdLabel "Garretts Gap";
+skos:note "W Haywood County, Great Smoky Mountains National Park near lat. 35°32'55\" N., long. 83°08'25\" W. on Cataloochee Divide.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.54861111111110";
+ncv:long "-83.14027777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:44>
+   skos:prefdLabel "Half Acre Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur extending NW from Cataloochee Divide near lat. 35°37'45\" N., long. 83°04'15\" W., between Den Branch and Winding Stair Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.62916666666670";
+ncv:long "-83.07083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:45>
+   skos:prefdLabel "Haw Knob";
+ 
+skos:note "on Jess Ridge in N Buncombe County near lat. 35°44' N., long. 82°27' W. Known as Rocky Knob until 1932, when the name was changed to eliminate duplication of names in the same vicinity.";
+   ncv:county "Buncombe County";
+   geojson:coordinates [
+ncv:lat "35.733333333333300";
+ncv:long "-82.45" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:46>
+   skos:prefdLabel "Hawkbill Rock";
+skos:note "prominent rock mass in NE Buncombe County near lat. 35°42'30\" N., long. 82°24'45\" W., in Pisgah National Forest. When viewed from the valley below, the rock has the appearance of a hawk's bill.";
+   ncv:county "Buncombe County";
+   geojson:coordinates [
+ncv:lat "35.708333333333300";
+ncv:long "-82.41250000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:47>
+   skos:prefdLabel "Hemphill Bald";
+skos:note "W Haywood County in Great Smoky Mountains National Park on Cataloochee Divide near lat. 35°33'50\" N., long. 83°06'11\" W. Alt. 5,573.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.56388888888890";
+ncv:long "-83.10305555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:48>
+   skos:prefdLabel "Horse Pen Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.59444444444450";
+ncv:long "-83.08527777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+ 
+, <ncg:49>
+   skos:prefdLabel "Hyatt Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, a spur extending SE from Dashoga Ridge with its center near lat. 35°39'35\" N., long. 83°13'58\" W. See also McGee Spring.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.65972222222220";
+ncv:long "-83.23277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:50>
+   skos:prefdLabel "Inadu Knob";
+skos:note "on Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°43'37\" N., long. 83°14'27\" W. Formerly Snake Knob but, to prevent duplication within the park, the name was changed to Inadu, the Indian word for snake. Alt. 5,941.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.72694444444450";
+ncv:long "-83.24083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:51>
+   skos:prefdLabel "Indian Knob";
+skos:note "peak on Indian Ridge, W Haywood County near lat. 35°40'06\" N., long. 83°07'43\" W., in Great Smoky Mountains National Park. Alt. 5,120.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.66833333333330";
+ncv:long "-83.1286111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:52>
+   skos:prefdLabel "Jesse Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, center near lat. 35°38'20\" N., long. 83°06'50\" W., between Little Davidson Creek and Mossy Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.638888888888900";
+ 
+ncv:long "-83.11388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:53>
+   skos:prefdLabel "Lawson Gant Lot";
+skos:note "bald spot on Swain County, N.C.-Sevier County, Tenn., line near lat. 35°32'45\" N., long. 83°47'38\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.545833333333300";
+ncv:long "-83.79388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:54>
+   skos:prefdLabel "Ledge Bald";
+skos:note "on Haywood-Swain county line in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°38'35\" N., long. 83°12'05\" W. Alt. 5,175.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.643055555555600";
+ncv:long "-83.20138888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:55>
+   skos:prefdLabel "Licklog Gap";
+skos:note "N Swain County in Great Smoky Mountains National Park between Hickory Cove and Right Fork [Cold Spring Branch] near lat. 35°29'05\" N., long. 83°39'48\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.484722222222200";
+ncv:long "-83.66333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:56>
+   skos:prefdLabel "Little Abrams Gap";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Blount County, Tenn., line near lat. 35°33'18\" N., long. 83°46'34\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ 
+ncv:lat "35.555";
+ncv:long "-83.7761111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:57>
+   skos:prefdLabel "Little Chestnut Bald";
+skos:note "mountain peak in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line near lat. 35°33'54\" N., long. 83°38'30\" W. Alt. 5,042.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.565";
+ncv:long "-83.64166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:58>
+   skos:prefdLabel "Little Chestnut Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur of Locust Ridge near lat. 35°32'50\" N., long. 83°39'54\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54722222222220";
+ncv:long "-83.665" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:59>
+   skos:prefdLabel "Little Grill Ridge";
+skos:note "W Swain County in Great Smoky Mountains National Park, a short spur from Big Grill Ridge, lat. 35°32'38\" N., long. 83°47'28\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54388888888890";
+ncv:long "-83.7911111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:60>
+   skos:prefdLabel "Little Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur of Big Fork Ridge extending ne; center near lat. 35°35'38\" N., long. 83°08'28\" W.";
+ 
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.59388888888890";
+ncv:long "-83.14111111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:61>
+   skos:prefdLabel "Little Shuckstack";
+skos:note "mountain in Great Smoky Mountains National Park, NW Swain County, lat. 35°29'26\" N., long. 83°48'37\" W. Alt. 3,821.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.49055555555560";
+ncv:long "-83.81027777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:62>
+   skos:prefdLabel "Little Spruce Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NE from Cataloochee Divide; center near lat. 35°33'35\" N., long. 83°08'04\" W., between Little Bald Branch and Bearpen Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.55972222222220";
+ncv:long "-83.13444444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:63>
+   skos:prefdLabel "Locust Knob";
+skos:note "NE Swain County on Heintooga Ridge in Great Smoky Mountains National Park, lat. 35°33'27\" N., long. 83°12'08\" W. Alt. 4,034.";
+ncv:county "Swain County"; geojson:coordinates [ ncv:lat "35.5575";
+ncv:long "-83.20222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:64>
+   skos:prefdLabel "Loggy Ridge";
+   skos:note "N Swain County in Great Smoky Mountains National Park,
+ 
+lat. 35°33' N., long. 83°32'08\" W."; ncv:county "Swain County"; geojson:coordinates [
+ncv:lat "35.55";
+ncv:long "-83.53555555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:65>
+   skos:prefdLabel "Lone Pine Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending SW from Thomas Ridge, lat. 35°31'15\" N., long. 83°23'13\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.520833333333300";
+ncv:long "-83.38694444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:66>
+   skos:prefdLabel "Long Bunk";
+skos:note "ridge in W Haywood County in Great Smoky Mountains National Park extending SE from Mount Sterling Ridge, with its center near lat. 35°41'10\" N., long. 83°06'40\" W. Lies between Andy Branch and Dude Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.68611111111110";
+ncv:long "-83.1111111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:67>
+   skos:prefdLabel "Long Cove Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park extending SW from Proctor Ridge, lat. 35°33'15\" N., long. 83°36'25\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55416666666670";
+ncv:long "-83.60694444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:68>
+ 
+   skos:prefdLabel "Long Drive Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, extends SW from Thomas Ridge, lat. 35°33'25\" N., long. 83°23'38\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55694444444440";
+ncv:long "-83.3938888888889" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:69>
+   skos:prefdLabel "Long Hungry Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park between Twentymile Creek and Moore Springs Branch, lat. 35°31'08\" N., long. 83°50'57\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.51888888888890";
+ncv:long "-83.84916666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:70>
+   skos:prefdLabel "Long Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park extending SW from Hughs Ridge, lat. 35°37' N., long. 83°19' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.61666666666670";
+ncv:long "-83.31666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:71>
+   skos:prefdLabel "Lost Bottom Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40' N., long. 83°11'07\" W., and flows SE into Palmer Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.666666666666700";
+ncv:long "-83.18527777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+ 
+<ncg:72>
+   skos:prefdLabel "Loudermilk Ridge";
+   skos:note "W Swain County in Great Smoky Mountains National Park,
+lat. 35°28'33\" N., long. 83°39'48\" W."; ncv:county "Swain County"; geojson:coordinates [
+ncv:lat "35.475833333333300";
+ncv:long "-83.66333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:73>
+   skos:prefdLabel "Lower Sassafras Gap";
+skos:note "N Swain County in Great Smoky Mountains National Park on Noland Divide near the head of Bridge Creek, lat. 35°31'09\" N., long. 83°27'15\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.51916666666670";
+ncv:long "-83.45416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:74>
+   skos:prefdLabel "Luftee Gap";
+skos:note "N Swain County in Great Smoky Mountains on Thomas Ridge, lat. 35°36'30\" N., long. 83°26'23\" W. Alt. approx. 5,200.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.608333333333300";
+ncv:long "-83.43972222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:75>
+   skos:prefdLabel "Luftee Knob";
+skos:note "on Haywood-Swain county line in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°10'30\" W., between Balsam Corner and Mount Sterling Ridge. Alt. 6,216.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.69277777777780";
+ncv:long "-83.17500000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+ 
+<ncg:76>
+   skos:prefdLabel "Maggot Ridge";
+   skos:note "W Haywood County in Great Smoky Mountains National Park,
+extends N from Buck Knob on Cataloochee Divide, center near lat. 35°33'45\" N., long. 83°08'32\" W. For origin of the name, see Maggot Spring Gap.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.5625";
+ncv:long "-83.14222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:77>
+   skos:prefdLabel "Maggot Spring Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°33'08\" N., long. 83°07'55\" W. Named for a nearby spring used by cattle rangers that had in it the larvae of an insect that resembled a maggot.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.55222222222220";
+ncv:long "-83.13194444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:78>
+   skos:prefdLabel "Marks Knob";
+   skos:note "NE Swain County in Great Smoky Mountains National Park
+ on Dashoga Ridge. Lat. 35°40'47\" N., long. 83°14'30\" 6,140.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.67972222222220";
+ncv:long "-83.24166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:79>
+   skos:prefdLabel "Martins Gap";
+W. Alt.
+skos:note "N Swain County in Great Smoky Mountains National Park on Sunkota Ridge, lat. 35°31'10\" N., long. 83°24'30\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.519444444444400";
+ncv:long "-83.40833333333340" ];
+
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:80>
+   skos:prefdLabel "Masa Knob";
+skos:note "peak on Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park about halfway between Mount Kephart and Charlies Bunion, lat. 35°38'10\" N., long. 83°22'40\" W. Alt. over 6,000. Named for George Masa (d. 1933), Japanese photographer whose extensive knowledge of the area, acquired through 18 years’ association with it, was recognized by his appointment as a member of the Nomenclature Committee for the first map of the park.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.63611111111110";
+ncv:long "-83.37777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:81>
+   skos:prefdLabel "McCampbell Knob";
+skos:note "Great Smoky Mountains National Park on the Swain County, N.C.-Blount County, Tenn., line. Lat. 35°33'53\" N., long. 83°45'18\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56472222222220";
+ncv:long "-83.755" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:82>
+   skos:prefdLabel "McClure Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur extending NW from Cataloochee Divide, center near lat. 35°34'35\" N., long. 83°06'52\" W., between Big Bald Branch and Double Gap Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.57638888888890";
+ncv:long "-83.11444444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:83>
+   skos:prefdLabel "McGee Spring";
+   skos:note "NE Swain County in Great Smoky Mountains National Park
+ 
+on W slope of Hyatt Ridge near summit at lat. 35°38'20\" N., long. 83°14'20\" W. Drains NW into Right Fork [Raven Fork].";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.638888888888900";
+ncv:long "-83.2388888888889" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:84>
+   skos:prefdLabel "McGinty Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises on N slope of Big Cataloochee Knob near lat. 35°40'30\" N., long. 83°10'12\" W., and flows NE into Swallow Fork Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.675";
+ncv:long "-83.17" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:85>
+   skos:prefdLabel "Meadow Gap";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Forrester Ridge, lat. 35°33'43\" N., long. 83°42'10\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56194444444440";
+ncv:long "-83.70277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:86>
+   skos:prefdLabel "Messer Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°36'57\" N., long. 83°36'57\" W., and flows E into Rough Fork. Formerly known as Sugar Fork but changed to honor Elijah Messer, an early settler on the stream.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.615833333333300";
+ncv:long "-83.61583333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:87>
+ 
+   skos:prefdLabel "Middle Fork Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, a spur extending SW from Dashoga Ridge, lat. 35°39'15\" N., long. 83°15'30\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.65416666666670";
+ncv:long "-83.25833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:88>
+   skos:prefdLabel "Mine Ridge";
+   skos:note "NE Swain County in Great Smoky Mountains National Park,
+ a spur extending SW from Hughes Ridge, 83°18'38\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.605555555555600";
+ncv:long "-83.31055555555560" ];
+lat. 35°36'20\" N., long.
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:89>
+   skos:prefdLabel "Mineral Gap";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Blount County, Tenn., line near the head of Roaring Creek, lat. 35°34'08\" N., long. 83°40'55\" W. Alt. approx. 5,280.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56888888888890";
+ncv:long "-83.68194444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:90>
+   skos:prefdLabel "Mount Buckley";
+skos:note "the southernmost of three knobs, the central one of which is Clingmans Dome and the northernmost Mount Love, in Great Smoky Mountains National Park on the border of Swain County, N.C., and Sevier County, Tenn., lat. 35°33'15\" N., long. 83°30' W. Named by Arnold H. Guyot prior to 1860 in honor of naturalist S. B. Buckley (1809-84), Guyot's friend and sometime coworker. Alt. 6,500.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55416666666670"; ncv:long "-83.5"
+
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:91>
+   skos:prefdLabel "Mount Cammerer";
+skos:note "on the Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park on Cammerer Ridge about lat. 35°45'50\" N., long. 83°09'40\" W. Named in honor of A. B. Cammerer, formerly of the U.S. Department of the Interior, who was active in promoting the park. Alt. approx. 4,928.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.763888888888900";
+ncv:long "-83.16111111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:92>
+   skos:prefdLabel "Mount Chapman";
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Sevier County, Tenn., line, lat. 35°41' N., long. 83°17' W. Named for David Carpenter Chapman (1876-1938?) of Knoxville, Tenn., whose initiative and persistent activity over many years was largely responsible for the establishment of the Great Smoky Mountains National Park by the act of Congress approved on May 22, 1926. Alt. 6,425. Formerly known as Black, Old Black, and The Black.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.68333333333330";
+ncv:long "-83.28333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:93>
+   skos:prefdLabel "Mount Collins";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line, lat. 35°35' N., long. 83°28' W. Named for Robert Collins (1806-63), one of the first settlers in the area and a guide for Arnold Guyot and other explorers. Mount Collins was renamed Mount Kephart in 1928, but that name was later given to another peak. Alt. 6,255.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.583333333333300";
+ncv:long "-83.46666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+ 
+{{jsonize(cells["feature type"].value) ,
+<ncg:94>
+   skos:prefdLabel "Mount Craig";
+skos:note "peak in Mount Mitchell State Park, S Yancey County near lat. 35°46'40\" N., long. 82°15'40\" W. Alt. 6,663. Second-highest peak in the state. One of two peaks known as Black Brothers until 1947, when renamed in honor of Governor Locke Craig (1860-1924), who was largely responsible for the establishment of Mount Mitchell State Park. Known earlier as Balsam Cone.";
+   ncv:county "Yancey County";
+   geojson:coordinates [
+ncv:lat "35.77777777777780";
+ncv:long "-82.2611111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:95>
+   skos:prefdLabel "Mount Davis";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line. Alt. approx. 5,000. Formerly named Greenbrier Knob; renamed about 1950 for Willis P. Davis of Knoxville, Tenn., who started the movement for the establishment of the park. Located at lat. 35°34'15\" N., long. 83°38'03\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.57083333333330";
+ncv:long "-83.63416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:96>
+   skos:prefdLabel "Mount Glory";
+skos:note "N Swain County in Great Smoky Mountains National Park on Welch Ridge near the head of White Mans Glory Creek, lat. 35°31'22\" N., long. 83°36'08\" W. Alt. 4,965.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.522777777777800";
+ncv:long "-83.60222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:97>
+   skos:prefdLabel "Mount Guyot";
+skos:note "in Great Smoky Mountains National Park on the Haywood County, N.C.-Sevier County, Tenn., line near lat. 35°42'20\" N., long.
+ 
+83°15'30\" W. Alt. 6,621. Named by Prof. S. B. Buckley prior to 1859 in honor of Arnold Guyot, geographer, who made the first comprehensive survey of the region and did much to stimulate public interest in the mountains. Known by the Cherokee Indians as Sornook";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.705555555555600";
+ncv:long "-83.25833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:98>
+   skos:prefdLabel "Mount Hardy";
+skos:note "S Haywood County near lat. 35°18'15\" N., long. 82°55'38\" W. Named 1957-58 for Dr. James F. E. Hardy of Asheville, who, in cooperation with Arnold Guyot, explored and named many of the mountains of W North Carolina in the 1850s. Formerly known as Black Mountain. Alt. 6,110.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.30416666666670";
+ncv:long "-82.92722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:99>
+   skos:prefdLabel "Mount Hardy Gap";
+skos:note "S Haywood County near lat. 35°17'55\" N., long. 82°55'30\" W. Formerly known as Black Mountain Gap.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.29861111111110";
+ncv:long "-82.92500000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:100>
+   skos:prefdLabel "Mount Love";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line, lat. 35°33'30\" N., long. 83°30' W. Named by Arnold Guyot before 1860 for Dr. S. L. Love (1828-87), who accompanied T. L. Clingman and S. O. Buckley in 1858 when Clingmans Dome was first measured. Alt. approx. 6,500.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55833333333330"; ncv:long "-83.5"
+ 
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:101>
+   skos:prefdLabel "Mount Noble";
+skos:note "E Swain County in Great Smoky Mountains National Park, lat. 35°30'20\" N., long. 83°20'15\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.50555555555560";
+ncv:long "-83.33750000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:102>
+   skos:prefdLabel "Mount Sequoyah";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line, lat. 35°40' N., long. 83°18'15\" W. Alt. approx. 6,000. Named for Sequoyah (1770?-1843), Indian who devised a Cherokee alphabet used in teaching thousands to read and write.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.666666666666700";
+ncv:long "-83.30416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:103>
+   skos:prefdLabel "Mount Squires";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Blount County, Tenn., line between McCampbell Knob and Rocky Top near lat. 35°33'47\" N., long. 83°44'30\" W. Alt. 5,042. Named for state senator Mark Squires (1878-1938), a leader in the movement to establish the park. Formerly known as Little Bald.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56305555555560";
+ncv:long "-83.74166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:104>
+   skos:prefdLabel "Mount Sterling";
+skos:note "community in W Haywood County on Big Creek near lat. 35°45'42\" N., long. 83°06'15\" W.";
+ 
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.76166666666670";
+ncv:long "-83.10416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:105>
+   skos:prefdLabel "Mount Sterling Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°42' N., long. 83°05'59\" W. Alt. 3,887.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.7";
+ncv:long "-83.09972222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:106>
+   skos:prefdLabel "Mount Sterling Ridge";
+   skos:note "W Haywood County in Great Smoky Mountains National Park
+ from Balsam Mountain extending NE from lat. 35°40'17\" 83°10'55\" W., forming the watershed between Big Creek Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.671388888888900";
+ncv:long "-83.18194444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:107>
+   skos:prefdLabel "Mount Yonaguska";
+skos:note "on the Haywood-Swain county line between
+and Luftee Knob in Great Smoky Mountains National Park
+35°41'40\" N., long. 83°14'53\" W. Alt. 6,150. Named for Yonaguska, chief of the Cherokee Indians.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.69444444444440";
+ncv:long "-83.24805555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:108>
+   skos:prefdLabel "Mouse Creek";
+N., long.
+and Cataloochee
+Tricorner Knob near lat.
+
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.70611111111110";
+ncv:long "-83.12138888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:109>
+   skos:prefdLabel "Mud Gap";
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Blount County, Tenn., line, lat. 35°31'18\" N., long. 83°48'24\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.52166666666670";
+ncv:long "-83.80666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:110>
+   skos:prefdLabel "Mule Gap";
+skos:note "N Swain County in Great Smoky Mountains National Park on Welch Ridge, lat. 35°33'02\" N., long. 83°34'15\" W. Alt. approx. 5,000.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.550555555555600";
+ncv:long "-83.57083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:111>
+   skos:prefdLabel "Nellie";
+skos:note "former community in W Haywood County on Cataloochee Creek near the mouth of Palmer Creek near lat. 35°37'40\" N., long. 83°06'10\" W. Settled about 1848. Named for Nellie Palmer, who in 1907, at the age of one, won first prize in a baby contest. Site now is in the Great Smoky Mountains National Park and is abandoned.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.62777777777780";
+ncv:long "-83.10277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+ 
+{{jsonize(cells["feature type"].value) ,
+<ncg:112>
+   skos:prefdLabel "Nellie Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur of Big Fork Ridge near lat. 35°37'10\" N., long. 83°06'50\" W. Named for nearby community of Nellie.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.61944444444450";
+ncv:long "-83.11388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:113>
+   skos:prefdLabel "Nettle Creek Bald";
+skos:note "N Swain County in Great Smoky Mountains National Park, lat. 35°34'02\" N., long. 83°22'55\" W. Alt. 5,172.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56722222222220";
+ncv:long "-83.38194444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:114>
+   skos:prefdLabel "Newfound Gap";
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Sevier County, Tenn., line, lat. 35°37' N., long. 83°26' W. Alt. 5,045.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.61666666666670";
+ncv:long "-83.43333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:115>
+   skos:prefdLabel "Newton Bald";
+skos:note "N Swain County in Great Smoky Mountains National Park, lat. 35°32'39\" N., long. 83°21'32\" W. Alt. 5,142.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54416666666670";
+ncv:long "-83.35888888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+ 
+{{jsonize(cells["feature type"].value) ,
+<ncg:116>
+   skos:prefdLabel "Noland Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park between Noland Mountain and Canadian Top near lat. 35°39'10\" N., long. 83°06' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65277777777780";
+ncv:long "-83.1" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:117>
+   skos:prefdLabel "Noland Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°39'35\" N., long. 83°05'18\" W. Alt. 3,951.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.65972222222220";
+ncv:long "-83.08833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:118>
+   skos:prefdLabel "Ola";
+skos:note "former community in W Haywood County near lat. 35°36'15\" N., long. 83°08'00\". The site is now within Great Smoky Mountains National Park and abandoned.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.60416666666670";
+ncv:long "-83.13333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:119>
+   skos:prefdLabel "Old Black Mountain";
+skos:note "at the junction of the lines of Haywood County, N.C., and Cocke and Sevier Counties, Tenn., in Great Smoky Mountains National Park near lat. 35°42'44\" N., long. 83°15'18\" W. Alt. 6,430.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.71222222222220"; ncv:long "-83.255"
+ 
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:120>
+   skos:prefdLabel "Overlook Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, lat. 35°33'37\" N., long. 83°10'50\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56027777777780";
+ncv:long "-83.18055555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:121>
+   skos:prefdLabel "Palmer Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, is formed by the junction of Beech Creek and Falling Rock Creek near lat. 35°38'05\" N., long. 83°09'17\" W. Flows E to join Caldwell Fork in forming Cataloochee Creek. Named for \"Turkey\" George Palmer, who lived on its banks. Sheriff of Haywood County, Palmer acquired the nickname \"Turkey\" because he killed so many wild turkeys.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.63472222222220";
+ncv:long "-83.15472222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:122>
+   skos:prefdLabel "Panther Spring Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°36'35\" N., long. 83°03'50\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.609722222222200";
+ncv:long "-83.06388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:123>
+   skos:prefdLabel "Parson Bald";
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Blount County, Tenn., line, lat. 35°31'25\" N., long. 83°53' W. Alt. 4,730.";
+   ncv:county "Swain County";
+ 
+geojson:coordinates [
+ncv:lat "35.52361111111110"; ncv:long "-83.88333333333330"
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:124>
+   skos:prefdLabel "Paw Paw Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park, extends SW from Cherry Knob on Jenkins Trail Ridge, lat. 35°30'50\" N., long. 83°44'52\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.513888888888900";
+ncv:long "-83.74777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:125>
+   skos:prefdLabel "Pilot Knob";
+skos:note "W Swain County in Great Smoky Mountains National Park at the SE end of Pilot Ridge, lat. 35°27'53\" N., long. 83°34'22\" W. Alt. 2,967.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.46472222222220";
+ncv:long "-83.57277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:126>
+   skos:prefdLabel "Pilot Ridge";
+skos:note "W Swain County in Great Smoky Mountains National Park, a spur of Welch Ridge extending SE from Cherry Gap to Pilot Knob, lat. 35°28'18\" N., long. 83°35'37\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.47166666666670";
+ncv:long "-83.5936111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:127>
+   skos:prefdLabel "Pine Tree Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°33'23\" N., long. 83°06'37\" W., between Little Bald Knob
+ 
+and Hemphill Bald. Alt. 5,270."; ncv:county "Haywood County"; geojson:coordinates [
+ncv:lat "35.55638888888890";
+ncv:long "-83.11027777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:128>
+   skos:prefdLabel "Piney Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park, a short spur extending W from Paw Paw Ridge, lat. 35°31'30\" N., long. 83°45'22\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.525";
+ncv:long "-83.75611111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:129>
+   skos:prefdLabel "Polls Gap";
+skos:note "W Haywood County in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°33'48\" N., long. 83°09'42\" W. Alt. 5,090. Named after Aunt Polly Moody's family cow, Poll, died, and her bones were left bleaching in the sun for many years.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.56333333333330";
+ncv:long "-83.16166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:130>
+   skos:prefdLabel "Pond Knob";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Big Grill Ridge, lat. 35°32' N., long. 83°46'23\" W. Alt. 4,148.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.53333333333330";
+ncv:long "-83.77305555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:131>
+   skos:prefdLabel "Porters Gap";
+ 
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Sevier County, Tenn., line, lat. 35°38'55\" N., long. 83°21'28\" W. Alt. approx. 5,500.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.64861111111110";
+ncv:long "-83.35777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:132>
+   skos:prefdLabel "Potato Hill Bald";
+skos:note "NE Swain County in Great Smoky Mountains National Park on Chiltoskie Ridge near the SE end of Ravens Roost Ridge, lat. 35°35'42\" N., long. 83°12'33\" W. Alt. 5,209.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.595";
+ncv:long "-83.20916666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:133>
+   skos:prefdLabel "Powell Knob";
+skos:note "in Great Smoky Mountains National Park on Swain County, N.C.-Blount County, Tenn., line between Buck Gap and Ekaneetlee Gap, lat. 35°32'24\" N., long. 83°49'19\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54";
+ncv:long "-83.82194444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:134>
+   skos:prefdLabel "Pretty Hollow Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'55\" N., long. 83°08'17\" W., on Mount Sterling Ridge and flows S into Palmer Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.68194444444440";
+ncv:long "-83.13805555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+ 
+<ncg:135>
+   skos:prefdLabel "Pretty Hollow Gap";
+   skos:note "W Haywood County in Great Smoky Mountains National Park
+on Mount Sterling Ridge near lat. 35°41'10\" N., long. 83°08'26\" W. Alt. 5,176 at the head of Pretty Hollow Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.68611111111110";
+ncv:long "-83.14055555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:136>
+   skos:prefdLabel "Proctor Ridge";
+skos:note "in Great Smoky Mountains National Park, N Swain County between Proctor Creek and Long Cove, lat. 35°33'18\" N., long. 83°35'46\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.555";
+ncv:long "-83.5961111111111" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:137>
+   skos:prefdLabel "Rapid Creek Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, a short spur extending S from Dashoga Ridge, lat. 35°39'10\" N., long. 83°15' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.65277777777780";
+ncv:long "-83.25" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:138>
+   skos:prefdLabel "Rattlesnake Knob";
+skos:note "N Swain County in Great Smoky Mountains National Park on the SW end of Long Drive Ridge, lat. 35°33'07\" N., long. 83°23'50\" W. Alt. 4,311.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.551944444444400";
+ncv:long "-83.39722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+ 
+{{jsonize(cells["feature type"].value) ,
+<ncg:139>
+   skos:prefdLabel "Rattlesnake Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending NW from Welch Ridge, lat. 35°30'55\" N., long. 83°37' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.515277777777800";
+ncv:long "-83.61666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:140>
+   skos:prefdLabel "Raven Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, lat. 35°40' N., long. 83°17' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.666666666666700";
+ncv:long "-83.28333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:141>
+   skos:prefdLabel "Raven Roost Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, a short spur extending NW from Chiltoskie Ridge, lat. 35°36'08\" N., long. 83°12'55\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.602222222222200";
+ncv:long "-83.21527777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:142>
+   skos:prefdLabel "Red Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park, a short spur extending E from Twentymile Ridge, lat. 35°29'40\" N., long. 83°48'10\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.49444444444450";
+ncv:long "-83.80277777777780" ];
+ 
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:143>
+   skos:prefdLabel "Red Ridge Gap";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Twenty-mile Ridge between Lost Cove Creek and Coldspring Branch, lat. 35°29'52\" N., long. 83°48'47\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.49777777777780";
+ncv:long "-83.81305555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:144>
+   skos:prefdLabel "Redman Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, a spur extending SW from Balsam Mountain, lat. 35°34'15\" N., long. 83°12' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.57083333333330";
+ncv:long "-83.2" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:145>
+   skos:prefdLabel "Rich Gap";
+skos:note "in Great Smoky Mountains National Park on the Swain County, N.C.-Blount County, Tenn., line between Gregory Bald and Forge Knob, lat. 35°31'45\" N., long. 83°51'14\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.52916666666670";
+ncv:long "-83.85388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:146>
+   skos:prefdLabel "Richland Mountain";
+skos:note "N Swain County in Great Smoky Mountains National Park, a ridge extending SE from Charlies Bunion between Kephart Prong and Bradley Fork, lat. 35°36'47\" N., long. 83°20'30\" W. Alt. approx. 5,600.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ 
+ncv:lat "35.613055555555600";
+ncv:long "-83.34166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:147>
+   skos:prefdLabel "Rocky Fork Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, lat. 35°35'20\" N., long. 83°25'55\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.58888888888890";
+ncv:long "-83.43194444444450" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:148>
+   skos:prefdLabel "Roses Gap";
+skos:note "NE Swain County between Thicket Branch and Roses Branch in Great Smoky Mountains National Park near lat. 35°39'34\" N., long. 83°13'29\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.659444444444400";
+ncv:long "-83.22472222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:149>
+   skos:prefdLabel "Rough Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park between Low Gap Branch and Big Branch; center near lat. 35°44'27\" N., long. 83°10' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.740833333333300";
+ncv:long "-83.16666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:150>
+   skos:prefdLabel "Rough Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur extending SE from Mount Sterling Ridge between Andy Branch and Woody Branch; center near lat. 35°40'55\" N., long. 83°07'10\" W.";
+ 
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.68194444444440";
+ncv:long "-83.11944444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:151>
+skos:prefdLabel "Rough-hew Ridge";
+skos:note "N Swain County between Bee Gum Branch and Board Camp Creek in Great Smoky Mountains National Park near lat. 35°30'18\" N., long. 83°32'30\" W., a short spur extending W from Forney Ridge.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.505";
+ncv:long "-83.54166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:152>
+   skos:prefdLabel "Round Mountain Knob";
+skos:note "NW Swain County in Great Smoky Mountains National Park at the SE end of Round Mountain Ridge near lat. 35°29'43\" N., long. 83°46'38\" W. Alt. 3,033.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.49527777777780";
+ncv:long "-83.77722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:153>
+   skos:prefdLabel "Saddleback";
+skos:note "ridge in NW Swain County in Great Smoky Mountains National Park between Roaring Creek and Desolation Branch. Its center is near lat. 35°33'26\" N., long. 83°40'48\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55722222222220";
+ncv:long "-83.68" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:154>
+   skos:prefdLabel "Sal Patch Gap";
+   skos:note "W Haywood County in Great Smoky Mountains National Park
+ 
+near lat. 35°38'24\" N., long. 83°03'28\" W."; ncv:county "Haywood County"; geojson:coordinates [
+ncv:lat "35.64";
+ncv:long "-83.05777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:155>
+   skos:prefdLabel "Sams Gap";
+skos:note "on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park near lat. 35°34'02\" N., long. 83°38'12\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56722222222220";
+ncv:long "-83.63666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:156>
+   skos:prefdLabel "Sawbrier Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending NW from High Rocks on Welch Ridge; center near lat. 35°31' N., long. 83°38'02\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.516666666666700";
+ncv:long "-83.63388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:157>
+   skos:prefdLabel "Sawteeth, The";
+skos:note "broken, pointed summits along the Swain County, N.C.- Sevier County, Tenn., line in Great Smoky Mountains National Park near lat. 35°38'30\" N., long. 83°21'50\" W. Alt. approx. 5,450.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.641666666666700";
+ncv:long "-83.36388888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:158>
+   skos:prefdLabel "Scarlet Ridge";
+ 
+skos:note "N Swain County in Great Smoky Mountains National Park extending SE from Welch Ridge to Forney Creek. Near lat. 35°31'54\" N., long. 83°34'40\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.531666666666700";
+ncv:long "-83.57777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:159>
+   skos:prefdLabel "Scottish Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°05'08\" W. Named for Scottish Mountain Lumber Co., which operated in the area in the 1920s. Alt. 4,290.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.69277777777780";
+ncv:long "-83.08555555555550" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:160>
+   skos:prefdLabel "Service Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; center near lat. 35°33'27\" N., long. 83°07'15\" W., between Big Bald Branch and Little Bald Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.5575";
+ncv:long "-83.12083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:161>
+   skos:prefdLabel "Shanty Mountain";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NE from Balsam Mountain between Sugar Fork and Palmer Creek; centers near lat. 35°37'15\" N., long. 83°09'35\" W. Alt. 4,812.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.62083333333330";
+ncv:long "-83.15972222222220" ];
+ 
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:162>
+   skos:prefdLabel "Sharp Top";
+   skos:note "mountain in central Swain County in Great Smoky
+ Mountains National Park on Noland long. 83°27'27\" W. Alt. 3,430.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.46805555555560";
+ncv:long "-83.4575" ];
+Divide near lat. 35°28'05\" N.,
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:163>
+   skos:prefdLabel "Shawano Ridge";
+skos:note "NE Swain County in Great Smoky Mountains National Park, extends SW from Balsam Mountain near lat. 35°40' N., long. 83°12'33\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.666666666666700";
+ncv:long "-83.20916666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:164>
+   skos:prefdLabel "Sheep Knob";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Twentymile Ridge near lat. 35°28'50\" N., long. 83°49'30\" W. Alt. 3,852.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.480555555555600";
+ncv:long "-83.825" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:165>
+   skos:prefdLabel "Sheep Pen Gap";
+skos:note "on Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park near lat. 35°31'13\" N., long. 83°52'27\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.52027777777780";
+
+ncv:long "-83.87416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:166>
+   skos:prefdLabel "Sheepback Knob";
+skos:note "W Haywood County in Great Smoky Mountains National Park on Cataloochee Divide, near lat. 35°33'10\" N., long. 83°07'33\" W., between Little Bald Knob and Little Spruce Ridge. Alt. 5,520.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.55277777777780";
+ncv:long "-83.12583333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:167>
+   skos:prefdLabel "Shot Beech Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park extending S from Thomas Ridge near lat. 35°35' N., long. 83°25' W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.583333333333300";
+ncv:long "-83.41666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:168>
+   skos:prefdLabel "Shuckstack Mountain";
+skos:note "W Swain County in Great Smoky Mountains National Park on Twentymile Ridge near lat. 35°29'08\" N., long. 83°48'55\" W. Alt. 4,100.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.48555555555560";
+ncv:long "-83.81527777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:169>
+   skos:prefdLabel "Silers Bald";
+skos:note "mountain on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park on Welch Ridge near lat. 35°33'58\" N., long. 83°33'56\" W. Alt. 5,620. Named for Jesse Richardson Siler (1793-1876) of Franklin, who owned the mountain and kept large herds of cattle on it.";
+ 
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.566111111111100";
+ncv:long "-83.56555555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:170>
+   skos:prefdLabel "Spence Field";
+skos:note "bald spot on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park near lat. 35°33'48\" N., long. 83°43'58\" W. Alt. 4,886.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56333333333330";
+ncv:long "-83.73277777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:171>
+   skos:prefdLabel "Spruce Mountain";
+skos:note "Haywood and Swain Counties in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°36'48\" N., long. 83°10'34\" W. Alt. 5,590.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.61333333333330";
+ncv:long "-83.17611111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:172>
+   skos:prefdLabel "Spruce Mountain Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending E from Spruce Mountain on Balsam Mountain; center near lat. 35°36'40\" N., long. 83°09'05\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.611111111111100";
+ncv:long "-83.15138888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:173>
+skos:prefdLabel "Starkey Gap";
+skos:note "on the Swain County, N.C.-Sevier County, Tenn., line in
+ 
+Great Smoky Mountains National Park near lat. 35°34'12\" N., long. 83°40'15\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.57";
+ncv:long "-83.67083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:174>
+   skos:prefdLabel "Starkey Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park near lat. 35°32'58\" N., long. 83°37'47\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54944444444440";
+ncv:long "-83.62972222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:175>
+   skos:prefdLabel "Stone Mountains";
+skos:note "a chain of mountains in W Ashe and Watauga Counties, N.C., and Johnson County, Tenn., from the Watauga River near lat. 36°17'30\" N., long. 81°55' W., to the NW corner of North Carolina and thence into Virginia to Whitetop Mountain. They form the common boundary line of North Carolina and Tennessee. The name dates from as early as 1795.";
+   ncv:county "Ashe County|Watauga County";
+   geojson:coordinates [
+ncv:lat "36.291666666666700";
+ncv:long "-81.91666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:176>
+   skos:prefdLabel "Straight Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°34'37\" N., long. 83°09'36\" W., and flows E into Caldwell Fork.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.57694444444450";
+ncv:long "-83.16000000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+ 
+, <ncg:177>
+   skos:prefdLabel "Strawberry Knob";
+skos:note "on the Haywood-Swain county line in Great Smoky Mountains National Park near lat. 35°32'54\" N., long. 83°09'35\" W., between Whim Knob and Black Camp Gap. Alt. 5,340.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.54833333333330";
+ncv:long "-83.15972222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:178>
+   skos:prefdLabel "Sugartree Gap";
+skos:note "on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park near lat. 35°34'12\" N., long. 83°39'28\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.57";
+ncv:long "-83.65777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:179>
+   skos:prefdLabel "Sugartree Licks";
+skos:note "on the Haywood-Swain county line in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°33'23\" N., long. 83°09'28\" W. Alt. approx. 5,160. The name comes from the days of cattle ranging in the area and a salting place. Salt for cattle was spread on the roots of a sugar maple tree.";
+   ncv:county "Swain County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.55638888888890";
+ncv:long "-83.15777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:180>
+   skos:prefdLabel "Suli Knob";
+skos:note "N Swain County in Great Smoky Mountains National Park near lat. 35°33'13\" N., long. 83°33'02\" W. Alt. 4,920.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.55361111111110"; ncv:long "-83.55055555555560"
+ 
+];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:181>
+   skos:prefdLabel "Suli Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park between Jonas and Huggins Creeks near lat. 35°32'53\" N., long. 83°32'50\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54805555555560";
+ncv:long "-83.54722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:182>
+   skos:prefdLabel "Sunkoto Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a long spur extending SW from Thomas Ridge with its center near lat. 35°31'40\" N., long. 83°24'28\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.52777777777780";
+ncv:long "-83.40777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:183>
+   skos:prefdLabel "Sunup Knob";
+skos:note "on Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°44'45\" N., long. 83°10'14\" W. Alt. 5,050-5,100.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.74583333333330";
+ncv:long "-83.17055555555560" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:184>
+   skos:prefdLabel "Swallow Fork";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'11\" N., long. 83°07'47\" W., and flows NW into Big Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ 
+ncv:lat "35.70305555555560";
+ncv:long "-83.12972222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:185>
+   skos:prefdLabel "Tanasee Bald";
+skos:note "mountain peak on the Haywood-Transylvania county line at the junction of Pisgah Ridge and Tanasee Ridge in Pisgah National Forest. Lat. 35°17'30\" N., long. 82°55'03\" W. Alt. 5,560. The Cherokee name for the peak was Tsul-ka-lu-tsu-na-gun-yi";
+   ncv:county "Transylvania County|Haywood County";
+   geojson:coordinates [
+ncv:lat "35.291666666666700";
+ncv:long "-82.9175" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:186>
+   skos:prefdLabel "Tennent Mountain";
+skos:note "SE Haywood County in Pisgah National Forest near lat. 35°20'15\" N., long. 82°52'10\" W. Named for Gaillard Stoney Tennent (1872-1953) in recognition of his lifelong interest in studying and preserving the beauty of the W North Carolina mountains. Alt. over 6,040.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.337500000000000";
+ncv:long "-82.86944444444440" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:187>
+   skos:prefdLabel "Thermo Knob";
+skos:note "W Haywood County in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°41'39\" N., long. 83°13'34\" W. Alt. 6,120. Formerly known as Thermometer Knob.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.69416666666670";
+ncv:long "-83.22611111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:188>
+   skos:prefdLabel "Thomas Ridge";
+ 
+skos:note "N Swain County in Great Smoky Mountains National Park, extends in a semicircle from Deep Creek N following the general curve of Oconaluftee River with its center near lat. 35°32'30\" N., long. 83°22'03\" W. Named for Col. William Holland Thomas (1805-93), native of Haywood County and chief of the Cherokee Indians.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.541666666666700";
+ncv:long "-83.36750000000000" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:189>
+   skos:prefdLabel "Thunderhead Mountain";
+skos:note "on the Swain County, N.C.-Blount County, Tenn., line in Great Smoky Mountains National Park near lat. 35°34'08\" N., long. 83°42'24\" W. Alt. 5,530.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.56888888888890";
+ncv:long "-83.70666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:190>
+   skos:prefdLabel "Tough Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; center near lat. 35°35'05\" N., long. 83°05'54\" W., between Clontz Branch and McKee Branch.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.584722222222200";
+ncv:long "-83.09833333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:191>
+   skos:prefdLabel "Turkey Cove Gap";
+skos:note "NW Swain County on Twentymile Ridge in Great Smoky Mountains National Park near lat. 35°28'09\" N., long. 83°50'07\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.469166666666700";
+ncv:long "-83.83527777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+ 
+{{jsonize(cells["feature type"].value) ,
+<ncg:192>
+   skos:prefdLabel "Tuskee Gap";
+   skos:note "N Swain County on Thomas Ridge in Great Smoky Mountains
+ National Park near lat. 35°33'32\" N., ncv:county "Swain County"; geojson:coordinates [
+ncv:lat "35.55888888888890";
+ncv:long "-83.3736111111111" ];
+long. 83°22'25\" W.";
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:193>
+   skos:prefdLabel "Twentymile Ridge";
+skos:note "NW Swain County in Great Its center is near lat. 35°28'50\" N.,
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.480555555555600";
+ncv:long "-83.83750000000000" ];
+Smoky Mountains National Park. long. 83°50'15\" W.";
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:194>
+   skos:prefdLabel "Upper Sassafras Gap";
+skos:note "N Swain County in Great Smoky Mountains National Park on Noland Divide near lat. 35°31'56\" N., long. 83°27'15\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.532222222222200";
+ncv:long "-83.45416666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:195>
+   skos:prefdLabel "Wades Point";
+skos:note "point of land in E Beaufort County on the N side of Pamlico River at the W side of the mouth of Pungo River, lat. 35°23'18\" N., long. 76°34'35\" W. See also Moores Beach. Appears as Battis Point on the Comberford map, 1657.";
+   ncv:county "Beaufort County";
+   geojson:coordinates [
+ncv:lat "35.388333333333300";
+ncv:long "-76.57638888888890" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type>
+
+{{jsonize(cells["feature type"].value) ,
+<ncg:196>
+   skos:prefdLabel "Walla Watta";
+skos:note "community in N central Beaufort County, lat. 35°35' N., long. 76°52'15\" W. Named by Surry Parker, local lumberman, for Wallace and Waters families, who lived here. Alt. 34.";
+   ncv:county "Beaufort County";
+   geojson:coordinates [
+ncv:lat "35.583333333333300";
+ncv:long "-76.87083333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:197>
+   skos:prefdLabel "Wash Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur extending SE from Shanty Mountain; center near lat. 35°37'07\" N., long. 83°08'15\" W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.618611111111100";
+ncv:long "-83.1375" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:198>
+   skos:prefdLabel "Wasulu Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending NW from Welch Ridge near lat. 35°29'22\" N., long. 83°38'32\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.489444444444400";
+ncv:long "-83.64222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:199>
+   skos:prefdLabel "Water Oak Gap";
+skos:note "N Swain County in Great Smoky Mountains National Park on Welch Ridge near lat. 35°30'32\" N., long. 83°36'21\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.50888888888890";
+ncv:long "-83.60583333333330" ];
+ 
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:200>
+   skos:prefdLabel "Welch Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, extends SW from Silers Bald to Little Tennessee River. Its center is near lat. 35°31'40\" N., long. 83°35'30\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.52777777777780";
+ncv:long "-83.59166666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:201>
+   skos:prefdLabel "Whiteoak Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending W from Forney Ridge and forming an arc between Bee Gum Branch and Whiteoak Branch. Its center is near lat. 35°28'38\" N., long. 83°33'12\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.477222222222200";
+ncv:long "-83.55333333333330" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:202>
+   skos:prefdLabel "Wild Cherry Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur of Loggy Ridge near lat. 35°32'35\" N., long. 83°31'25\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.543055555555600";
+ncv:long "-83.52361111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:203>
+   skos:prefdLabel "Winding Stair Branch";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°38'13\" N., long. 83°02'55\" W., and flows NW into Cataloochee Creek.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ 
+ncv:lat "35.636944444444400";
+ncv:long "-83.04861111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:204>
+   skos:prefdLabel "Woodward Knob";
+skos:note "NW Swain County in Great Smoky Mountains National Park on Jenkins Trail Ridge near lat. 35°31' N., long. 83°43'02\" W. Alt. 3,939.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.516666666666700";
+ncv:long "-83.71722222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:205>
+   skos:prefdLabel "Woody Creek";
+skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°35' N., long. 83°10'20\" W., and flows NE into Ugly Fork.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.583333333333300";
+ncv:long "-83.17222222222220" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:206>
+   skos:prefdLabel "Woody Ridge";
+skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur extending NE from Balsam Mountain; center near lat. 35°35'30\" N., long. 83°10' W.";
+   ncv:county "Haywood County";
+   geojson:coordinates [
+ncv:lat "35.59166666666670";
+ncv:long "-83.16666666666670" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:207>
+   skos:prefdLabel "Woolly Ridge";
+skos:note "NW Swain County in Great Smoky Mountains National Park, a short spur extending SE from Blockhouse Ridge. Its center is near lat. 35°32'58\" N., long. 83°41'37\" W.";
+ 
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.54944444444440";
+ncv:long "-83.69361111111110" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+,
+<ncg:208>
+   skos:prefdLabel "Yanu Ridge";
+skos:note "N Swain County in Great Smoky Mountains National Park, a short spur extending SE from Welch Ridge with its center near lat. 35°32' N., long. 83°34'40\" W.";
+   ncv:county "Swain County";
+   geojson:coordinates [
+ncv:lat "35.53333333333330";
+ncv:long "-83.57777777777780" ];
+<http://www.w3.org/1999/02/22 -rdf-syntax-ns#type> {{jsonize(cells["feature type"].value)
+] }
+ 

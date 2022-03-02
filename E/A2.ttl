@@ -1,0 +1,87 @@
+@prefix ncg: <http://n2t.net/ark:/39333/ncg/> .
+@prefix nct: <http://n2t.net/ark:/39333/ncg/type#> .
+@prefix ncv: <http://n2t.net/ark:/39333/ncg/vocab#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geojson: <https://purl.org/geojson/vocab#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> .
+
+<ncg:4>
+  skos:prefLabel "Balsam Corner";
+  skos:note "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020.";
+  ncv:county "Swain County|Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.6713888888889;
+    ncv:long -83.1819444444445
+  ];
+  nct:type rdf:type .
+
+<ncg:28>
+  skos:prefLabel "Coggins Branch";
+  skos:note "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°39'08\" N., long. 83°06'12\" W., and flows NE into Little Cataloochee Creek.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.6522222222222;
+    ncv:long -83.1033333333333
+  ];
+  nct:type rdf:type .
+
+<ncg:29>
+  skos:prefLabel "Cooks Creek";
+  skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'30\" N., long. 83°09'38\" W., and flows SE into Pretty Hollow Creek.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.675;
+    ncv:long -83.1605555555556
+  ];
+  nct:type rdf:type .
+
+<ncg:30>
+  skos:prefLabel "Cooks Knob";
+  skos:note "W Haywood County, Great Smoky Mountains National Park near lat. 35°39'28\" N., long. 83°08'42\" W., on Indian Ridge between Short Bung (ridge) and Davidson Branch.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.6577777777778;
+    ncv:long -83.145
+  ];
+  nct:type rdf:type .
+
+<ncg:31>
+  skos:prefLabel "Correll Branch";
+  skos:note "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°42'05\" N., long. 83°07'06\" W., and flows SE into Little Cataloochee Creek. The stream has also been known as North Prong.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.7013888888889;
+    ncv:long -83.1183333333333
+  ];
+  nct:type rdf:type .
+
+<ncg:32>
+  skos:prefLabel "Cosby Knob";
+  skos:note "on the Haywood County, N.C.-Cocke County, Tenn., line, Great Smoky Mountains National Park, on the Great Smoky Mountains divide near lat. 35°43'47\" N., long. 83°11'12\" W. Alt. 5,145.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.7297222222222;
+    ncv:long -83.1866666666667
+  ];
+  nct:type rdf:type .
+
+<ncg:34>
+  skos:prefLabel "Cove Creek Gap";
+  skos:note "central Haywood County, Great Smoky Mountains National Park near lat. 35°37'52\" N., long. 83°02'50\" W., at the head of Winding Stair Branch. Alt. 4,071.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.6311111111111;
+    ncv:long -83.0472222222222
+  ];
+  nct:type rdf:type .
+
+<ncg:159>
+  skos:prefLabel "Scottish Mountain";
+  skos:note "W Haywood County in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°05'08\" W. Named for Scottish Mountain Lumber Co., which operated in the area in the 1920s. Alt. 4,290.";
+  ncv:county "Haywood County";
+  geojson:coordinates [
+    ncv:lat 35.6927777777778;
+    ncv:long -83.0855555555555
+  ];
+  nct:type rdf:type .
+

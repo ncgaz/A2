@@ -1,0 +1,96 @@
+{
+	"@context": [
+		"https://geojson.org/geojson-ld/geojson-context.jsonld",
+		{
+		"ncg": "http://n2t.net/ark:/39333/ncg/",
+		"nct": "http://n2t.net/ark:/39333/ncg/type#",
+		"ncv": "http://n2t.net/ark:/39333/ncg/vocab#",
+		"skos": "http://www.w3.org/2004/02/skos/core#",
+		"wd": "http://www.wikidata.org/entity/",
+		"ncv:extends_from": {"@type": "@id"},
+		"ncv:named_after": {"@type": "@id"},
+		"ncv:located_in" : {"@type": "@id"},
+		"feature_type":  {
+			"@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+			"@type": "@id"
+			}
+		}
+	],
+	"type": "FeatureCollection",
+	"features": [    {
+	"@id": "ncg:place48",
+	"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [-83.0852777777778, 35.5944444444445]
+	},
+	"properties": {
+		"skos:prefLabel" : "Horse Pen Ridge",
+		"skos:note" : "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.",
+		"feature_type" : "nct:Ridge",
+		"ncv:county" : "Haywood County",
+		"ncv:extends_from" : "wd:Q31424116"
+		}
+	},
+{
+	"@id": "ncg:place108",	
+	"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [-83.1213888888889, 35.7061111111111]
+	},
+	"properties": {
+		"skos:prefLabel" : "Mouse Creek",
+		"skis:note" : "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one.",
+		"feature_type" : "nct:Creek",
+		"ncv:county" : "Haywood County",
+		"ncv:name_origin" : "Indian"
+		}
+	},
+{
+	"@id": "ncg:place122",
+	"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [-83.0638888888889, 35.6097222222222]
+		},
+	"properties": {
+		"skos:prefLabel" : "Panther Spring Gap",
+		"skos:note" : "W Haywood County in Great Smoky Mountains National Park near lat. 35°36'35\" N., long. 83°03'50\" W.",
+		"feature_type" : "nct:Gap",
+		"ncv:county" : "Haywood County",
+		"ncv:located_in" : "wd:Q464004"
+		}
+	},
+{
+	"@id": "ncg:place138",
+	"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [-83.3972222222222, 35.5519444444444]
+		},
+	"properties": {
+		"skos:prefLabel" : "Rattlesnake Knob",
+		"skos:note" : "N Swain County in Great Smoky Mountains National Park on the SW end of Long Drive Ridge, lat. 35°33'07\" N., long. 83°23'50\" W. Alt. 4,311.",
+		"feature_type" : "nct:Knob",
+		"ncv:county" : "Swain County",
+		"ncv:named_after" : "wd:Q10282840"
+		}
+	},
+{
+	"@id": "ncg:place164",
+	"type": "Feature",
+		"geometry": {
+		"type": "Point",
+		"coordinates": [-83.825, 35.4805555555556]
+		},
+	"properties": {
+		"skos:prefLabel" : "Sheep Knob",
+		"skos:note" : "NW Swain County in Great Smoky Mountains National Park on Twentymile Ridge near lat. 35°28'50\" N., long. 83°49'30\" W. Alt. 3,852.",
+		"feature_type" : "nct:Knob",
+		"ncv:county" : "Swain County",
+		"ncv:named_after" : "wd:Q7368"
+		}
+	}
+  ]
+}

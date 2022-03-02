@@ -1,0 +1,48 @@
+@prefix ncg: <http://n2t.net/ark:/39333/ncg/> .
+@prefix nct: <http://n2t.net/ark:/39333/ncg/type#> .
+@prefix ncv: <http://n2t.net/ark:/39333/ncg/vocab#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geojson: <https://purl.org/geojson/vocab#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+<http://n2t.net/ark:/39333/ncg/place8>
+  skos:prefLabel "Bennetts Millpond" ;
+  skos:note "on Rockyhock Creek in central Chowan County. Formed about 1856. 2 mi. long and ⅓ mi. wide, centering near lat. 36°09'10\" N., long. 76°39'40\" W. Covers approx. 50 acres. Max. depth 6 to 8 ft. Probably named for William Bennett (d. 1785), an early owner of the site." ;
+  ncv:county "Chowan County" ;
+  geojson:coordinates (-76.6611111111111 36.1527777777778) ;
+  nct: "Millpond" ;
+  ncv:locatedOn "Rockyhock Creek",
+      wd:Q35263045 .
+
+<http://n2t.net/ark:/39333/ncg/place51>
+  skos:prefLabel "Inadu Knob" ;
+  skos:note "on Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°43'37\" N., long. 83°14'27\" W. Formerly Snake Knob but, to prevent duplication within the park, the name was changed to Inadu, the Indian word for snake. Alt. 5,941." ;
+  ncv:county "Haywood County" ;
+  geojson:coordinates (-83.2408333333333 35.7269444444445) ;
+  nct: "Knob" ;
+  ncv:labelSource "indigenous" .
+
+<http://n2t.net/ark:/39333/ncg/place109>
+  skos:prefLabel "Mouse Creek" ;
+  skos:note "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one." ;
+  ncv:county "Haywood County" ;
+  geojson:coordinates (-83.1213888888889 35.7061111111111) ;
+  nct: "Creek" ;
+  ncv:labelSource "indigenous, translated" .
+
+<http://n2t.net/ark:/39333/ncg/place149>
+  skos:prefLabel "Roses Gap" ;
+  skos:note "NE Swain County between Thicket Branch and Roses Branch in Great Smoky Mountains National Park near lat. 35°39'34\" N., long. 83°13'29\" W." ;
+  ncv:county "Swain County" ;
+  geojson:coordinates (-83.2247222222222 35.6594444444444) ;
+  nct: "Gap" ;
+  ncv:locatedIn "Great Smoky Mountains National Park" .
+
+<http://n2t.net/ark:/39333/ncg/place180>
+  skos:prefLabel "Sugartree Licks" ;
+  skos:note "on the Haywood-Swain county line in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°33'23\" N., long. 83°09'28\" W. Alt. approx. 5,160. The name comes from the days of cattle ranging in the area and a salting place. Salt for cattle was spread on the roots of a sugar maple tree." ;
+  ncv:county "Swain County" ; 
+  ncv:county "Haywood County" ;
+  geojson:coordinates (-83.1577777777778 35.5563888888889) ;
+  nct: "PointOfInterest" ; 
+  ncv:locatedOn <http://n2t.net/ark:/39333/ncg/place6>, "Balsam Mountain" .

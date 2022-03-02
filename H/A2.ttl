@@ -1,0 +1,47 @@
+@prefix ncg: <http://n2t.net/ark:/39333/ncg/> .
+@prefix nct: <http://n2t.net/ark:/39333/ncg/type#> .
+@prefix ncv: <http://n2t.net/ark:/39333/ncg/vocab#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geojson: <https://purl.org/geojson/vocab#> .
+@prefix wd: <http://www.wikidata.org/entity> .
+
+  ncg:place12
+  skos:prefLabel "Big Fork Ridge";
+  skos:note "W Haywood County in Great Smoky Mountains National Park, extending NE from Cataloochee Balsam; a Balsam Mountain summit between Rough Fork and Caldwell Fork. Center near lat. 35°35'40\" N., long. 83°07'30\" W.";
+  ncv:county "Haywood County";
+  geojson:coordinates ( -83.125 35.5944444444445 );
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Ridge";
+  ncv:extendedFrom "Cataloochee Balsam".
+
+  ncg:place13
+  skos:prefLabel "Big Ridge";
+  skos:note "W Haywood County in Great Smoky Mountains National Park. A short spur of Big Fork Ridge extending SE near lat. 35°34'50\" N., long. 83°08' W.";
+  ncv:county "Haywood County";
+  geojson:coordinates ( -83.1333333333333 35.5805555555556 );
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Ridge";
+  ncv:locatedOn wd:Q464004.
+
+  ncg:place49
+  skos:prefLabel "Horse Pen Ridge";
+  skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.";
+  ncv:county "Haywood County";
+  geojson:coordinates ( -83.0852777777778 35.5944444444445 );
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Ridge";
+  ncv:extendedFrom "Cataloochee Divide".
+
+  ncg:place61
+  skos:prefLabel "Little Ridge";
+  skos:note "W Haywood County in Great Smoky Mountains National Park, a short spur of Big Fork Ridge extending ne; center near lat. 35°35'38\" N., long. 83°08'28\" W.";
+  ncv:county "Haywood County";
+  geojson:coordinates ( -83.1411111111111 35.5938888888889 );
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Ridge";
+  ncv:locatedOn wd:Q464004.
+
+  ncg:place191
+  skos:prefLabel "Tough Ridge";
+  skos:note "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; center near lat. 35°35'05\" N., long. 83°05'54\" W., between Clontz Branch and McKee Branch.";
+  ncv:county "Haywood County";
+  geojson:coordinates ( -83.0983333333333 35.5847222222222 );
+  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "Ridge";
+  ncv:locatedBetween "Clontz Branch and McKee Branch".
+

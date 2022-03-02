@@ -1,0 +1,94 @@
+{
+  "@context": [
+      "https://geojson.org/geojson-ld/geojson-context.jsonld",
+      {
+    	  "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    	  "ncg": "http://n2t.net/ark:/39333/ncg/",
+    	  "nct": "http://n2t.net/ark:/39333/ncg/type#",
+    	  "ncv": "http://n2t.net/ark:/39333/ncg/vocab#",
+    	  "skos": "http://www.w3.org/2004/02/skos/core#",
+    	  "geojson": "https://purl.org/geojson/vocab#",
+        "label": "skos:prefLabel",
+        "description": "skos:note",
+        "county": "ncv:county",
+        "coordinates": "geojson:coordinates",
+        "feature_type":{
+          "@id":"http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+          "@type":"@id"
+        }
+      }
+  ],
+  "type": "FeatureCollection",
+  "features" : [
+    {
+      "type":"Feature",
+      "@id": "ncg:place37",
+      "properties":{
+            "label" : "Deer Creek Gap",
+            "description" : "on the Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°43'04\" N., long. 83°15' W.",
+            "feature_type":"nct:Gap",
+            "county" : ["Haywood County"]
+      },
+      "geometry":{
+            "type":"Point",
+            "coordinates":[-83.25,35.7177777777778]
+      }
+    },
+    {
+      "type":"Feature",
+      "@id": "ncg:place48",
+      "properties":{
+            "label" : "Horse Pen Ridge",
+            "description" : "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.",
+            "feature_type":"nct:Ridge",
+            "county" : ["Haywood County"]
+      },
+      "geometry":{
+            "type":"Point",
+            "coordinates":[-83.0852777777778,35.5944444444445]
+      }
+    },
+    {
+      "type":"Feature",
+      "@id": "ncg:place63",
+      "properties":{
+            "label" : "Locust Knob",
+            "description" : "NE Swain County on Heintooga Ridge in Great Smoky Mountains National Park, lat. 35°33'27\" N., long. 83°12'08\" W. Alt. 4,034.",
+            "feature_type":"nct:Knob",
+            "county" : ["Swain County"]
+      },
+      "geometry":{
+            "type":"Point",
+            "coordinates":[-83.2022222222222,35.5575]
+      }
+    },
+    {
+      "type":"Feature",
+      "@id": "ncg:place100",
+      "properties":{
+            "label" : "Mount Love",
+            "description" : "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line, lat. 35°33'30\" N., long. 83°30' W. Named by Arnold Guyot before 1860 for Dr. S. L. Love (1828-87), who accompanied T. L. Clingman and S. O. Buckley in 1858 when Clingmans Dome was first measured. Alt. approx. 6,500.",
+            "feature_type":"nct:Mountain",
+            "county" : ["Swain County"]
+      },
+      "geometry":{
+            "type":"Point",
+            "coordinates":[-83.5,35.5583333333333]
+      }
+    },
+    {
+      "type":"Feature",
+      "@id": "ncg:place108",
+      "properties":{
+            "label" : "Mouse Creek",
+            "description" : "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one.",
+            "feature_type":"nct:Creek",
+            "county" : ["Haywood County"]
+      },
+      "geometry":{
+            "type":"Point",
+            "coordinates":[-83.1213888888889,35.7061111111111]
+      }
+    }
+  ]
+}

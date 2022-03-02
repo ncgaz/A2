@@ -1,0 +1,46 @@
+   @prefix ncg: <http://n2t.net/ark:/39333/ncg/> .
+   @prefix nct: <http://n2t.net/ark:/39333/ncg/type#> .
+   @prefix ncv: <http://n2t.net/ark:/39333/ncg/vocab#> .
+   @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+   @prefix geojson: <https://purl.org/geojson/vocab#> .
+   @prefix wd: <http://www.wikidata.org/entity/> .
+
+      ncg:place1
+      skos:prefLabel "Asgini Ridge";
+      skos:note "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W.";
+      ncv:county "Swain County";
+      wd:'Q31423615';
+      geojson:coordinate '-83.7722222222222', '35.5472222222222';
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Ridge".
+
+      ncg:place2
+      skos:prefLabel "Bald Gap";
+      skos:note "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.";
+      ncv:county "Haywood County";
+	  wd:fact "It is in Haywood County.";
+      geojson:coordinate '-83.1061111111111', '35.65';
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Gap".
+
+      ncg:place4
+      skos:prefLabel "Bald Top";
+      skos:note "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.";
+      ncv:county "Haywood County";
+	  wd:fact "It is in Haywood County.";
+      geojson:coordinate '-83.1083333333333', '35.65';
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Top".
+
+      ncg:place24
+      skos:prefLabel "Canadian Top";
+      skos:note "peak in W Haywood County, Great Smoky Mountains National Park, near lat. 35°38'55\" N., long. 83°06'13\" W.";
+      ncv:county "Haywood County";
+	  wd:fact "It is in Haywood County.";
+      geojson:coordinate '-83.1036111111111', '35.6486111111111';
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Top".
+
+      ncg:place163
+      skos:prefLabel "Sharp Top";
+      skos:note "mountain in central Swain County in Great Smoky Mountains National Park on Noland Divide near lat. 35°28'05\" N., long. 83°27'27\" W. Alt. 3,430.";
+      ncv:county "Swain County";
+      wd:fact "It is in central Swain County.";
+      geojson:coordinate '-83.4575', '35.4680555555556';
+      <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>"Top".

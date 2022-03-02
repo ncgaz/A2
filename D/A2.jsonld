@@ -1,0 +1,85 @@
+{
+   "@context": [
+   "https://geojson.org/geojson-ld/geojson-context.jsonld",
+	{
+          "ncg": "<http://n2t.net/ark:/39333/ncg/>",
+   	 "nct": "<http://n2t.net/ark:/39333/ncg/type#>", 
+   	 "ncv": "<http://n2t.net/ark:/39333/ncg/vocab#>",
+	 "skos": "<http://www.w3.org/2004/02/skos/core#>",
+  	 "geojson": "<https://purl.org/geojson/vocab#>",
+   	 "label": "skos:preLabel",
+	 "description": "skos:note",
+	 "county": "ncv:county",
+	 "coordinates": "geojson:coordinates",
+	 "feature_type": {
+		"@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type>";
+		"@type": "@id"	
+	}
+   "features" : [
+ {"id": "http://example.com/features/1"
+   "geometry": 
+        {   "coordinates": [ -83.7722222222222,
+                35.5472222222222
+            ],
+            "type": "Point"},
+         "properties": 
+               {   "label" : "Asgini Ridge",
+                   "description" : "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W.",
+                   "feature_type" : "Ridge",
+                   "county" : "Swain County"}, 
+                   "type": "Feature"
+    },
+ {"id": "http://example.com/features/2"
+   "geometry": 
+        {   "coordinates": [ -83.1061111111111,
+                35.65
+            ],
+            "type": "Point"},
+         "properties": 
+               {   "label" : "Bald Gap",
+                   "description" : "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W.",
+                   "feature_type" : "Gap",
+                   "county" : "Haywood County"}, 
+                   "type": "Feature"
+    },
+ {"id": "http://example.com/features/3"
+   "geometry": 
+        {   "coordinates": [ -83.1083333333333,
+                35.65
+            ],
+            "type": "Point"},
+         "properties": 
+               {   "label" : "Bald Top",
+                   "description" : "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960.",
+                   "feature_type" : "Top",
+                   "county" : "Haywood County"}, 
+                   "type": "Feature"
+    },
+ {"id": "http://example.com/features/4"
+   "geometry": 
+        {   "coordinates": [ -83.1036111111111,
+                35.6486111111111
+            ],
+            "type": "Point"},
+         "properties": 
+               {   "label" : "Canadian Top",
+                   "description" : "peak in W Haywood County, Great Smoky Mountains National Park, near lat. 35°38'55\" N., long. 83°06'13\" W.",
+                   "feature_type" : "Top",
+                   "county" : "Haywood County"}, 
+                   "type": "Feature"
+    },
+ {"id": "http://example.com/features/5"
+   "geometry": 
+        {   "coordinates": [ -83.4575,
+                35.4680555555556
+            ],
+            "type": "Point"},
+         "properties": 
+               {   "label" : "Sharp Top",
+                   "description" : "mountain in central Swain County in Great Smoky Mountains National Park on Noland Divide near lat. 35°28'05\" N., long. 83°27'27\" W. Alt. 3,430.",
+                   "feature_type" : "Top",
+                   "county" : "Swain County"}, 
+                   "type": "Feature"
+    }
+  ],"type": "featurecollection"
+}

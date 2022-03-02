@@ -1,0 +1,110 @@
+{
+  "@context": [
+    "https://geojson.org/geojson-ld/geojson-context.jsonld",
+    {
+      "skos": "http://www.w3.org/2004/02/skos/core#",
+      "geojson": "https://purl.org/geojson/vocab#",
+      "ncg": "http://n2t.net/ark:/39333/ncg/",
+      "nct": "http://n2t.net/ark:/39333/ncg/type#",
+      "ncv": "http://n2t.net/ark:/39333/ncg/vocab#",
+      "label": "skos:prefLabel",
+      "description": "skos:note",
+      "county": "ncv:county",
+      "coordinates": "geojson:coordinates",
+      "type": "@type",
+      "id": "@id",
+      "geometry": "geojson:geometry",
+      "properties": "geojson:properties",
+      "features": {
+        "@container": "@set",
+        "@id": "geojson:features"
+      },
+      "feature_type": {
+        "@id": "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "@id": "nct:place12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.125, 35.5944444444445]
+      },
+      "properties": {
+        "label" : "Big Fork Ridge",
+        "description" : "W Haywood County in Great Smoky Mountains National Park, extending NE from Cataloochee Balsam; a Balsam Mountain summit between Rough Fork and Caldwell Fork. Center near lat. 35°35'40\" N., long. 83°07'30\" W.",
+        "feature_type" : "Ridge",
+        "county" : ["Haywood County"]
+      }
+    }
+
+  ,
+    {
+      "type": "Feature",
+      "@id": "nct:place13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.1333333333333, 35.5805555555556]
+      },
+      "properties": {
+        "label" : "Big Ridge",
+        "description" : "W Haywood County in Great Smoky Mountains National Park. A short spur of Big Fork Ridge extending SE near lat. 35°34'50\" N., long. 83°08' W.",
+        "feature_type" : "Ridge",
+        "county" : ["Haywood County"]
+      }
+    }
+
+  ,
+    {
+      "type": "Feature",
+      "@id": "nct:place49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0852777777778, 35.5944444444445]
+      },
+      "properties": {
+        "label" : "Horse Pen Ridge",
+        "description" : "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.",
+        "feature_type" : "Ridge",
+        "county" : ["Haywood County"]
+      }
+    }
+
+  ,
+    {
+      "type": "Feature",
+      "@id": "nct:place61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.1411111111111, 35.5938888888889]
+      },
+      "properties": {
+        "label" : "Little Ridge",
+        "description" : "W Haywood County in Great Smoky Mountains National Park, a short spur of Big Fork Ridge extending ne; center near lat. 35°35'38\" N., long. 83°08'28\" W.",
+        "feature_type" : "Ridge",
+        "county" : ["Haywood County"]
+      }
+    }
+
+  ,
+    {
+      "type": "Feature",
+      "@id": "nct:place191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0983333333333, 35.5847222222222]
+      },
+      "properties": {
+        "label" : "Tough Ridge",
+        "description" : "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; center near lat. 35°35'05\" N., long. 83°05'54\" W., between Clontz Branch and McKee Branch.",
+        "feature_type" : "Ridge",
+        "county" : ["Haywood County"]
+      }
+    }
+
+
+  ]
+}

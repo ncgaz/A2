@@ -39,3 +39,6 @@ ncg:place4  a                nct:Top ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat 35°39' N long 83°06'30 W Alt 3960" ;
         skos:prefLabel       "Bald Top" ;
         geojson:coordinates  ( -83.1083333333333 35.65 ) .
+
+wd:Q464004 skos:prefLabel "Great Smoky Mountains National Park" .
+wd:Q1360486 skos:prefLabel "Great Smoky Mountains" .

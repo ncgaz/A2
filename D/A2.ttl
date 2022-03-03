@@ -9,21 +9,18 @@ ncg:place2  a               nct:Gap ;
         ncv:county          "Haywood County" ;
         skos:note           "W Haywood County in Great Smoky Mountains National Park between Canadian Top and Bald Top near lat. 35°39' N., long. 83°06'22\" W." ;
         skos:prefLabel      "Bald Gap" ;
-        wd:fact             "It is in Haywood County." ;
         geojson:coordinates ( -83.1061111111111 35.65 ) .
 
 ncg:place24  a              nct:Top ;
         ncv:county          "Haywood County" ;
         skos:note           "peak in W Haywood County, Great Smoky Mountains National Park, near lat. 35°38'55\" N., long. 83°06'13\" W." ;
         skos:prefLabel      "Canadian Top" ;
-        wd:fact             "It is in Haywood County." ;
         geojson:coordinates ( -83.1036111111111 35.6486111111111 ) .
 
 ncg:place163  a             nct:Top ;
         ncv:county          "Swain County" ;
         skos:note           "mountain in central Swain County in Great Smoky Mountains National Park on Noland Divide near lat. 35°28'05\" N., long. 83°27'27\" W. Alt. 3,430." ;
         skos:prefLabel      "Sharp Top" ;
-        wd:fact             "It is in central Swain County." ;
         geojson:coordinates ( -83.4575 35.4680555555556 ) .
 
 ncg:place1  a               nct:Ridge ;
@@ -37,5 +34,4 @@ ncg:place4  a               nct:Top ;
         ncv:county          "Haywood County" ;
         skos:note           "W Haywood County in Great Smoky Mountains National Park between Little Davidson Branch and Coggins Branch near lat. 35°39' N., long. 83°06'30\" W. Alt. 3,960." ;
         skos:prefLabel      "Bald Top" ;
-        wd:fact             "It is in Haywood County." ;
         geojson:coordinates ( -83.1083333333333 35.65 ) .

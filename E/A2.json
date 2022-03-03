@@ -34,8 +34,7 @@
         "description": "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°39'08\" N., long. 83°06'12\" W., and flows NE into Little Cataloochee Creek.",
         "feature_type": "Branch",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -53,8 +52,7 @@
         "description": "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'30\" N., long. 83°09'38\" W., and flows SE into Pretty Hollow Creek.",
         "feature_type": "Creek",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -72,8 +70,7 @@
         "description": "W Haywood County, Great Smoky Mountains National Park near lat. 35°39'28\" N., long. 83°08'42\" W., on Indian Ridge between Short Bung (ridge) and Davidson Branch.",
         "feature_type": "Knob",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -91,8 +88,7 @@
         "description": "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°42'05\" N., long. 83°07'06\" W., and flows SE into Little Cataloochee Creek. The stream has also been known as North Prong.",
         "feature_type": "Branch",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -110,8 +106,7 @@
         "description": "on the Haywood County, N.C.-Cocke County, Tenn., line, Great Smoky Mountains National Park, on the Great Smoky Mountains divide near lat. 35°43'47\" N., long. 83°11'12\" W. Alt. 5,145.",
         "feature_type": "Knob",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -129,8 +124,7 @@
         "description": "central Haywood County, Great Smoky Mountains National Park near lat. 35°37'52\" N., long. 83°02'50\" W., at the head of Winding Stair Branch. Alt. 4,071.",
         "feature_type": "Gap",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     },
@@ -148,8 +142,7 @@
         "description": "W Haywood County in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°05'08\" W. Named for Scottish Mountain Lumber Co., which operated in the area in the 1920s. Alt. 4,290.",
         "feature_type": "Mountain",
         "counties": [
-          "Haywood County",
-          ""
+          "Haywood County"
         ]
       }
     }

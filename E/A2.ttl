@@ -5,15 +5,15 @@
 @prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> .
 @prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
 
-<ncg:4>  nct:type            rdf:type ;
         ncv:county           "Swain County|Haywood County" ;
+<ncg:4>  rdf:type            nct:Mountain ;
         skos:note            "mountain on the Haywood-Swain county line. In Great Smoky Mountains National Park near lat. 35°40'17\" N., long. 83°10'55\" W., near a sharp bend in the county line, hence the name. Alt. 6,020." ;
         skos:prefLabel       "Balsam Corner" ;
         geojson:coordinates  [ ncv:lat   35.6713888888889 ;
                                ncv:long  -83.1819444444445
                              ] .
 
-<ncg:34>  nct:type           rdf:type ;
+<ncg:34>  rdf:type           nct:Gap ;
         ncv:county           "Haywood County" ;
         skos:note            "central Haywood County, Great Smoky Mountains National Park near lat. 35°37'52\" N., long. 83°02'50\" W., at the head of Winding Stair Branch. Alt. 4,071." ;
         skos:prefLabel       "Cove Creek Gap" ;
@@ -21,7 +21,7 @@
                                ncv:long  -83.0472222222222
                              ] .
 
-<ncg:28>  nct:type           rdf:type ;
+<ncg:28>  rdf:type           nct:Branch ;
         ncv:county           "Haywood County" ;
         skos:note            "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°39'08\" N., long. 83°06'12\" W., and flows NE into Little Cataloochee Creek." ;
         skos:prefLabel       "Coggins Branch" ;
@@ -29,7 +29,7 @@
                                ncv:long  -83.1033333333333
                              ] .
 
-<ncg:32>  nct:type           rdf:type ;
+<ncg:32>  rdf:type           nct:Knob ;
         ncv:county           "Haywood County" ;
         skos:note            "on the Haywood County, N.C.-Cocke County, Tenn., line, Great Smoky Mountains National Park, on the Great Smoky Mountains divide near lat. 35°43'47\" N., long. 83°11'12\" W. Alt. 5,145." ;
         skos:prefLabel       "Cosby Knob" ;
@@ -37,7 +37,7 @@
                                ncv:long  -83.1866666666667
                              ] .
 
-<ncg:30>  nct:type           rdf:type ;
+<ncg:30>  rdf:type           nct:Knob ;
         ncv:county           "Haywood County" ;
         skos:note            "W Haywood County, Great Smoky Mountains National Park near lat. 35°39'28\" N., long. 83°08'42\" W., on Indian Ridge between Short Bung (ridge) and Davidson Branch." ;
         skos:prefLabel       "Cooks Knob" ;
@@ -45,7 +45,7 @@
                                ncv:long  -83.145
                              ] .
 
-<ncg:29>  nct:type           rdf:type ;
+<ncg:29>  rdf:type           nct:Creek ;
         ncv:county           "Haywood County" ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°40'30\" N., long. 83°09'38\" W., and flows SE into Pretty Hollow Creek." ;
         skos:prefLabel       "Cooks Creek" ;
@@ -53,7 +53,7 @@
                                ncv:long  -83.1605555555556
                              ] .
 
-<ncg:159>  nct:type          rdf:type ;
+<ncg:159>  rdf:type          nct:Mountain ;
         ncv:county           "Haywood County" ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park near lat. 35°41'34\" N., long. 83°05'08\" W. Named for Scottish Mountain Lumber Co., which operated in the area in the 1920s. Alt. 4,290." ;
         skos:prefLabel       "Scottish Mountain" ;
@@ -61,7 +61,7 @@
                                ncv:long  -83.0855555555555
                              ] .
 
-<ncg:31>  nct:type           rdf:type ;
+<ncg:31>  rdf:type           nct:Branch ;
         ncv:county           "Haywood County" ;
         skos:note            "rises in W Haywood County, Great Smoky Mountains National Park, near lat. 35°42'05\" N., long. 83°07'06\" W., and flows SE into Little Cataloochee Creek. The stream has also been known as North Prong." ;
         skos:prefLabel       "Correll Branch" ;

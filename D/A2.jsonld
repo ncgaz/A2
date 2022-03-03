@@ -103,5 +103,5 @@
       "type": "Feature"
     }
   ],
-  "type": "featurecollection"
+  "type": "FeatureCollection"
 }

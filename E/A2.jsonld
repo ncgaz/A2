@@ -16,7 +16,8 @@
       "counties": "ncv:county"
     }
   ],
-  "placenames": [
+  "type": "FeatureCollection",
+  "features": [
     {
       "type": "Feature",
       "geometry": {

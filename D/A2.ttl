@@ -27,7 +27,7 @@ ncg:place1  a               nct:Ridge ;
         ncv:county          "Swain County" ;
         skos:note           "NW Swain County extending as a short spur SE from the Great Smoky Mountain ridge centering near lat. 35°32'50\" N., long. 83°46'20\" W." ;
         skos:prefLabel      "Asgini Ridge" ;
-        wd:                 "Q31423615" ;
+        skos:exactMatch     wd:Q31423615 ;
         geojson:coordinates ( -83.7722222222222 35.5472222222222 ) .
 
 ncg:place4  a               nct:Top ;

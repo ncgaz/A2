@@ -1,12 +1,19 @@
 {
   "@context": [
-    "http://n2t.net/ark:/39333/ncg/",
+    "https://geojson.org/geojson-ld/geojson-context.jsonld",
     {
-      "@id": "nvc:https://purl.org/geojson/vocab#",
-      "nct": "geojson:Feature",
-      "ncv": "geojson:Point",
-      "skos": "geojson:Point",
-      "rdf": "geojson:Point"
+      "skos": "http://www.w3.org/2004/02/skos/core#",
+      "geojson": "https://purl.org/geojson/vocab#",
+      "nct": "http://n2t.net/ark:/39333/ncg/type#",
+      "ncv": "http://n2t.net/ark:/39333/ncg/vocab#",
+      "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "label": "skos:prefLabel",
+      "description": "skos:note",
+      "feature_type": {
+        "@id": "rdf:type",
+        "@type": "@id"
+      },
+      "counties": "ncv:county"
     }
   ],
   "placenames": [

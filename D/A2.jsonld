@@ -2,12 +2,12 @@
   "@context": [
     "https://geojson.org/geojson-ld/geojson-context.jsonld",
     {
-      "label": "skos:preLabel",
       "ncg": "http://n2t.net/ark:/39333/ncg/",
       "nct": "http://n2t.net/ark:/39333/ncg/type#",
       "ncv": "http://n2t.net/ark:/39333/ncg/vocab#",
       "skos": "http://www.w3.org/2004/02/skos/core#",
       "geojson": "https://purl.org/geojson/vocab#",
+      "label": "skos:prefLabel",
       "description": "skos:note",
       "county": "ncv:county",
       "coordinates": "geojson:coordinates",

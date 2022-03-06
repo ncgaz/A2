@@ -17,8 +17,7 @@
       "county": "ncv:county",
       "locatedOn": "ncv:locatedOn",
       "locatedIn": "ncv:locatedIn",
-      "labelSource": "ncv:labelSource",
-      "coordinates": "geojson:coordinates"
+      "labelSource": "ncv:labelSource"
     }
   ],
   "@id": "http://n2t.net/ark:/39333/ncg/place180",

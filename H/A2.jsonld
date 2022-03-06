@@ -10,17 +10,9 @@
       "label": "skos:prefLabel",
       "description": "skos:note",
       "county": "ncv:county",
-      "coordinates": "geojson:coordinates",
-      "type": "@type",
-      "id": "@id",
-      "geometry": "geojson:geometry",
-      "properties": "geojson:properties",
-      "features": {
-        "@container": "@set",
-        "@id": "geojson:features"
-      },
       "feature_type": {
-        "@id": "<http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "@type": "@id"
       }
     }
   ],

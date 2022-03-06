@@ -14,19 +14,21 @@ ncg:place51  nct:            "Knob" ;
 
 ncg:place180  nct:           "PointOfInterest" ;
         ncv:county           "Haywood County" , "Swain County" ;
-        ncv:locatedOn        "Balsam Mountain" ;
         ncv:locatedOn        ncg:place6 ;
         skos:note            "on the Haywood-Swain county line in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°33'23\" N., long. 83°09'28\" W. Alt. approx. 5,160. The name comes from the days of cattle ranging in the area and a salting place. Salt for cattle was spread on the roots of a sugar maple tree." ;
         skos:prefLabel       "Sugartree Licks" ;
         geojson:coordinates  ( -83.1577777777778 35.5563888888889 ) .
 
+ncg:place6 skos:prefLabel "Balsam Mountain" .
+
 ncg:place8  nct:             "Millpond" ;
         ncv:county           "Chowan County" ;
-        ncv:locatedOn        "Rockyhock Creek" ;
         ncv:locatedOn        wd:Q35263045 ;
         skos:note            "on Rockyhock Creek in central Chowan County. Formed about 1856. 2 mi. long and ⅓ mi. wide, centering near lat. 36°09'10\" N., long. 76°39'40\" W. Covers approx. 50 acres. Max. depth 6 to 8 ft. Probably named for William Bennett (d. 1785), an early owner of the site." ;
         skos:prefLabel       "Bennetts Millpond" ;
         geojson:coordinates  ( -76.6611111111111 36.1527777777778 ) .
+
+wd:Q35263045 skos:prefLabel "Rockyhock Creek" .
 
 ncg:place109  nct:           "Creek" ;
         ncv:county           "Haywood County" ;

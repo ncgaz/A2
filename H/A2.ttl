@@ -26,6 +26,8 @@ ncg:place13  a               "Ridge" ;
         skos:prefLabel       "Big Ridge" ;
         geojson:coordinates  ( -83.1333333333333 35.5805555555556 ) .
 
+wd:Q464004 skos:prefLabel "Great Smoky Mountains National Park" .
+
 ncg:place61  a               "Ridge" ;
         ncv:county           "Haywood County" ;
         ncv:locatedOn        wd:Q464004 ;

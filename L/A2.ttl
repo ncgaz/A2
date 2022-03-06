@@ -10,32 +10,40 @@ ncg:place108  a              nct:Creek ;
         ncv:name_origin      "Indian" ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one." ;
         skos:prefLabel       "Mouse Creek" ;
-        geojson:coordinates  ( "-83.1213888888889" "35.7061111111111" ) .
+        geojson:coordinates  ( -83.1213888888889 35.7061111111111 ) .
 
 ncg:place48  a               nct:Ridge ;
         ncv:county           "Haywood County" ;
         ncv:extends_from     wd:Q31424116 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W." ;
         skos:prefLabel       "Horse Pen Ridge" ;
-        geojson:coordinates  ( "-83.0852777777778" "35.5944444444445" ) .
+        geojson:coordinates  ( -83.0852777777778 35.5944444444445 ) .
+
+wd:Q31424116 skos:prefLabel "Cataloochee Divide" .
 
 ncg:place138  a              nct:Knob ;
         ncv:county           "Swain County" ;
         ncv:named_after      wd:Q10282840 ;
         skos:note            "N Swain County in Great Smoky Mountains National Park on the SW end of Long Drive Ridge, lat. 35°33'07\" N., long. 83°23'50\" W. Alt. 4,311." ;
         skos:prefLabel       "Rattlesnake Knob" ;
-        geojson:coordinates  ( "-83.3972222222222" "35.5519444444444" ) .
+        geojson:coordinates  ( -83.3972222222222 35.5519444444444 ) .
+
+wd:Q10282840 skos:prefLabel "rattlesnake" .
 
 ncg:place122  a              nct:Gap ;
         ncv:county           "Haywood County" ;
         ncv:located_witin    wd:Q464004 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park near lat. 35°36'35\" N., long. 83°03'50\" W." ;
         skos:prefLabel       "Panther Spring Gap" ;
-        geojson:coordinates  ( "-83.0638888888889" "35.6097222222222" ) .
+        geojson:coordinates  ( -83.0638888888889 35.6097222222222 ) .
+
+wd:Q464004 skos:prefLabel "Great Smoky Mountains National Park" .
 
 ncg:place164  a              nct:Knob ;
         ncv:county           "Swain County" ;
         ncv:named_after      wd:Q7368 ;
         skos:note            "NW Swain County in Great Smoky Mountains National Park on Twentymile Ridge near lat. 35°28'50\" N., long. 83°49'30\" W. Alt. 3,852." ;
         skos:prefLabel       "Sheep Knob" ;
-        geojson:coordinates  ( "-83.825" "35.4805555555556" ) .
+        geojson:coordinates  ( -83.825 35.4805555555556 ) .
+
+wd:Q7368 skos:prefLabel "sheep" .

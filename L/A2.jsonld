@@ -19,7 +19,8 @@
       "feature_type": {
         "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
         "@type": "@id"
-      }
+      },
+      "label": "skos:prefLabel"
     }
   ],
   "type": "FeatureCollection",
@@ -35,11 +36,14 @@
         ]
       },
       "properties": {
-        "skos:prefLabel": "Horse Pen Ridge",
+        "label": "Horse Pen Ridge",
         "skos:note": "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W.",
         "feature_type": "nct:Ridge",
         "ncv:county": "Haywood County",
-        "ncv:extends_from": "wd:Q31424116"
+        "ncv:extends_from": {
+          "@id": "wd:Q31424116",
+          "skos:prefLabel": "Cataloochee Divide"
+        }
       }
     },
     {

@@ -17,8 +17,7 @@
       "county": "ncv:county",
       "locatedOn": "ncv:locatedOn",
       "locatedIn": "ncv:locatedIn",
-      "labelSource": "ncv:labelSource",
-      "coordinates": "geojson:coordinates"
+      "labelSource": "ncv:labelSource"
     }
   ],
   "@id": "http://n2t.net/ark:/39333/ncg/place180",
@@ -33,7 +32,7 @@
   "properties": {
     "label_name": "Sugartree Licks",
     "description": "on the Haywood-Swain county line in Great Smoky Mountains National Park on Balsam Mountain near lat. 35°33'23\" N., long. 83°09'28\" W. Alt. approx. 5,160. The name comes from the days of cattle ranging in the area and a salting place. Salt for cattle was spread on the roots of a sugar maple tree.",
-    "feature_type": "PointOfInterest",
+    "feature_type": "nct:PointOfInterest",
     "county": [
       "Swain County",
       "Haywood County"

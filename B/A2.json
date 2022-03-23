@@ -1,61 +1,101 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [0, 0]},
-    
-"properties": {
-      "label" : "Little Chestnut Bald",
-      "description" : "mountain peak in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line near lat. 35°33'54\" N., long. 83°38'30\" W. Alt. 5,042.",
-      "latitude" : 35.565,
-      "longitude" : -83.6416666666667,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6416666666667,
+          35.565
+        ]
+      },
+      "properties": {
+        "label": "Little Chestnut Bald",
+        "description": "mountain peak in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line near lat. 35°33'54\" N., long. 83°38'30\" W. Alt. 5,042.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     },
-    
-"properties": {
-      "label" : "Nettle Creek Bald",
-      "description" : "N Swain County in Great Smoky Mountains National Park, lat. 35°34'02\" N., long. 83°22'55\" W. Alt. 5,172.",
-      "latitude" : 35.5672222222222,
-      "longitude" : -83.3819444444444,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3819444444444,
+          35.5672222222222
+        ]
+      },
+      "properties": {
+        "label": "Nettle Creek Bald",
+        "description": "N Swain County in Great Smoky Mountains National Park, lat. 35°34'02\" N., long. 83°22'55\" W. Alt. 5,172.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     },
-    
-"properties": {
-      "label" : "Newton Bald",
-      "description" : "N Swain County in Great Smoky Mountains National Park, lat. 35°32'39\" N., long. 83°21'32\" W. Alt. 5,142.",
-      "latitude" : 35.5441666666667,
-      "longitude" : -83.3588888888889,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3588888888889,
+          35.5441666666667
+        ]
+      },
+      "properties": {
+        "label": "Newton Bald",
+        "description": "N Swain County in Great Smoky Mountains National Park, lat. 35°32'39\" N., long. 83°21'32\" W. Alt. 5,142.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     },
-    
-"properties": {
-      "label" : "Parson Bald",
-      "description" : "in Great Smoky Mountains National Park on Swain County, N.C.-Blount County, Tenn., line, lat. 35°31'25\" N., long. 83°53' W. Alt. 4,730.",
-      "latitude" : 35.5236111111111,
-      "longitude" : -83.8833333333333,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8833333333333,
+          35.5236111111111
+        ]
+      },
+      "properties": {
+        "label": "Parson Bald",
+        "description": "in Great Smoky Mountains National Park on Swain County, N.C.-Blount County, Tenn., line, lat. 35°31'25\" N., long. 83°53' W. Alt. 4,730.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     },
-    
-"properties": {
-      "label" : "Potato Hill Bald",
-      "description" : "NE Swain County in Great Smoky Mountains National Park on Chiltoskie Ridge near the SE end of Ravens Roost Ridge, lat. 35°35'42\" N., long. 83°12'33\" W. Alt. 5,209.",
-      "latitude" : 35.595,
-      "longitude" : -83.2091666666667,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2091666666667,
+          35.595
+        ]
+      },
+      "properties": {
+        "label": "Potato Hill Bald",
+        "description": "NE Swain County in Great Smoky Mountains National Park on Chiltoskie Ridge near the SE end of Ravens Roost Ridge, lat. 35°35'42\" N., long. 83°12'33\" W. Alt. 5,209.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     },
-    
-"properties": {
-      "label" : "Silers Bald",
-      "description" : "mountain on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park on Welch Ridge near lat. 35°33'58\" N., long. 83°33'56\" W. Alt. 5,620. Named for Jesse Richardson Siler (1793-1876) of Franklin, who owned the mountain and kept large herds of cattle on it.",
-      "latitude" : 35.5661111111111,
-      "longitude" : -83.5655555555556,
-      "feature_type" : "Bald",
-      "county" : "Swain County"
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5655555555556,
+          35.5661111111111
+        ]
+      },
+      "properties": {
+        "label": "Silers Bald",
+        "description": "mountain on the Swain County, N.C.-Sevier County, Tenn., line in Great Smoky Mountains National Park on Welch Ridge near lat. 35°33'58\" N., long. 83°33'56\" W. Alt. 5,620. Named for Jesse Richardson Siler (1793-1876) of Franklin, who owned the mountain and kept large herds of cattle on it.",
+        "feature_type": "Bald",
+        "county": "Swain County"
+      }
     }
-  
+  ]
 }

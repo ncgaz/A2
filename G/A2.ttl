@@ -6,37 +6,37 @@
 @prefix wd:      <http://www.wikidata.org/entity/> .
 
 ncg:place108  a              nct:Creek ;
-        ncv:Haywood_County   wd:Q502496 ;
-        ncv:county           "Haywood County" ;
+        ncv:located_in       wd:Q464004 , wd:Q502496 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, rises near lat. 35°42'22\" N., long. 83°07'17\" W., and flows NW into Big Creek. The name is an Indian one." ;
         skos:prefLabel       "Mouse Creek" ;
         geojson:coordinates  ( -83.1213888888889 35.7061111111111 ) .
 
+wd:Q502496 skos:prefLabel "Haywood County" .
+wd:Q464004 skos:prefLabel "Great Smoky Mountains National Park" .
+
 ncg:place48  a               nct:Ridge ;
-        ncv:Great_Smoky_Mountains_National_Park
-                wd:Q464004 ;
-        ncv:county           "Haywood County" ;
+        ncv:located_in       wd:Q464004 , wd:Q502496 ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; its center is near lat. 35°35'40\" N., long. 83°05'07\" W." ;
         skos:prefLabel       "Horse Pen Ridge" ;
         geojson:coordinates  ( -83.0852777777778 35.5944444444445 ) .
 
 ncg:place37  a               nct:Gap ;
-        ncv:Haywood_County   wd:Q502496 ;
-        ncv:county           "Haywood County" ;
+        ncv:located_in       wd:Q464004 , wd:Q502496 ;
         skos:note            "on the Haywood County, N.C.-Cocke County, Tenn., line in Great Smoky Mountains National Park near lat. 35°43'04\" N., long. 83°15' W." ;
         skos:prefLabel       "Deer Creek Gap" ;
         geojson:coordinates  ( -83.25 35.7177777777778 ) .
 
 ncg:place63  a               nct:Knob ;
-        ncv:Heintooga_Ridge  wd:Q31424773 ;
-        ncv:county           "Swain County" ;
+        ncv:located_in       wd:Q31424773 , wd:Q496197 ;
         skos:note            "NE Swain County on Heintooga Ridge in Great Smoky Mountains National Park, lat. 35°33'27\" N., long. 83°12'08\" W. Alt. 4,034." ;
         skos:prefLabel       "Locust Knob" ;
         geojson:coordinates  ( -83.2022222222222 35.5575 ) .
 
+wd:Q31424773 skos:prefLabel "Heintooga Ridge" .
+wd:Q496197 skos:prefLabel "Swain County" .
+
 ncg:place100  a              nct:Mountain ;
-        ncv:Swain_County     wd:Q496197 ;
-        ncv:county           "Swain County" ;
+        ncv:located_in       wd:Q464004 , wd:Q496197 ;
         skos:note            "in Great Smoky Mountains National Park on the Swain County, N.C.-Sevier County, Tenn., line, lat. 35°33'30\" N., long. 83°30' W. Named by Arnold Guyot before 1860 for Dr. S. L. Love (1828-87), who accompanied T. L. Clingman and S. O. Buckley in 1858 when Clingmans Dome was first measured. Alt. approx. 6,500." ;
         skos:prefLabel       "Mount Love" ;
         geojson:coordinates  ( -83.5 35.5583333333333 ) .

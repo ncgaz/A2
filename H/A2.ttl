@@ -14,7 +14,7 @@ ncg:place12  a               "Ridge" ;
 
 ncg:place191  a              "Ridge" ;
         ncv:county           "Haywood County" ;
-        ncv:locatedBetween   "Clontz Branch and McKee Branch" ;
+        ncv:locatedBetween   ( "Clontz Branch" "McKee Branch" ) ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park, a spur extending NW from Cataloochee Divide; center near lat. 35°35'05\" N., long. 83°05'54\" W., between Clontz Branch and McKee Branch." ;
         skos:prefLabel       "Tough Ridge" ;
         geojson:coordinates  ( -83.0983333333333 35.5847222222222 ) .
@@ -25,6 +25,8 @@ ncg:place13  a               "Ridge" ;
         skos:note            "W Haywood County in Great Smoky Mountains National Park. A short spur of Big Fork Ridge extending SE near lat. 35°34'50\" N., long. 83°08' W." ;
         skos:prefLabel       "Big Ridge" ;
         geojson:coordinates  ( -83.1333333333333 35.5805555555556 ) .
+
+wd:Q464004 skos:prefLabel "Great Smoky Mountains National Park" .
 
 ncg:place61  a               "Ridge" ;
         ncv:county           "Haywood County" ;

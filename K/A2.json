@@ -14,7 +14,7 @@
         "label": "Chestnut Branch",
         "description": "rises in N Haywood County near lat. 35°45'15\" N., long. 83°09'45\" W., and flows E into Big Creek.",
         "feature_type": "Branch",
-        "county/ies": [
+        "counties": [
           "Haywood County"
         ]
       }
@@ -32,7 +32,7 @@
         "label": "Flat Springs Knob",
         "description": "on the Buncombe-Yancey county line NE of Flat Springs Gap at lat. 35°47'30\" N., long. 82°20'30\" W. Alt. 5,700-5,800. Sometimes also known as Flattop.",
         "feature_type": "Knob",
-        "county/ies": [
+        "counties": [
           "Yancey County",
           "Buncombe County"
         ]
@@ -51,7 +51,7 @@
         "label": "Hawkbill Rock",
         "description": "prominent rock mass in NE Buncombe County near lat. 35°42'30\" N., long. 82°24'45\" W., in Pisgah National Forest. When viewed from the valley below, the rock has the appearance of a hawk's bill.",
         "feature_type": "Rock",
-        "county/ies": [
+        "counties": [
           "Buncombe County"
         ]
       }
@@ -69,7 +69,7 @@
         "label": "Stone Mountains",
         "description": "a chain of mountains in W Ashe and Watauga Counties, N.C., and Johnson County, Tenn., from the Watauga River near lat. 36°17'30\" N., long. 81°55' W., to the NW corner of North Carolina and thence into Virginia to Whitetop Mountain. They form the common boundary line of North Carolina and Tennessee. The name dates from as early as 1795.",
         "feature_type": "Mountains",
-        "county/ies": [
+        "counties": [
           "Ashe County",
           "Watauga County"
         ]
@@ -88,7 +88,7 @@
         "label": "Tanasee Bald",
         "description": "mountain peak on the Haywood-Transylvania county line at the junction of Pisgah Ridge and Tanasee Ridge in Pisgah National Forest. Lat. 35°17'30\" N., long. 82°55'03\" W. Alt. 5,560. The Cherokee name for the peak was Tsul-ka-lu-tsu-na-gun-yi",
         "feature_type": "Bald",
-        "county/ies": [
+        "counties": [
           "Transylvania County",
           "Haywood County"
         ]

@@ -11,12 +11,20 @@
       "label": "skos:prefLabel",
       "note": "skos:note",
       "county": "ncv:county",
-      "coordinates": "geojson:coordinates",
-      "feature_type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+      "feature_type": {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "@type": "@id"
+      },
       "tributary_of": "ncv:tributary_of",
       "colloquial_name": "ncv:colloquial_name",
-      "located_within": "ncv:located_within",
-      "borders": "ncv:borders"
+      "located_within": {
+        "@id": "ncv:located_within",
+        "@type": "@id"
+      },
+      "borders": {
+        "@id": "ncv:borders",
+        "@type": "@id"
+      }
     }
   ],
   "type": "FeatureCollection",
@@ -34,7 +42,7 @@
       "properties": {
         "label": "Chestnut Branch",
         "description": "rises in N Haywood County near lat. 35°45'15\" N., long. 83°09'45\" W., and flows E into Big Creek.",
-        "feature_type": "Branch",
+        "feature_type": "nct:Branch",
         "county": [
           "Haywood County"
         ],
@@ -54,7 +62,7 @@
       "properties": {
         "label": "Flat Springs Knob",
         "description": "on the Buncombe-Yancey county line NE of Flat Springs Gap at lat. 35°47'30\" N., long. 82°20'30\" W. Alt. 5,700-5,800. Sometimes also known as Flattop.",
-        "feature_type": "Knob",
+        "feature_type": "nct:Knob",
         "county": [
           "Yancey County",
           "Buncombe County"
@@ -75,11 +83,14 @@
       "properties": {
         "label": "Hawkbill Rock",
         "description": "prominent rock mass in NE Buncombe County near lat. 35°42'30\" N., long. 82°24'45\" W., in Pisgah National Forest. When viewed from the valley below, the rock has the appearance of a hawk's bill.",
-        "feature_type": "Rock",
+        "feature_type": "nct:Rock",
         "county": [
           "Buncombe County"
         ],
-        "located_within": "Pisgah National Forest"
+        "located_within": {
+          "@id": "wd:Q1817477",
+          "label": "Pisgah National Forest"
+        }
       }
     },
     {
@@ -95,12 +106,15 @@
       "properties": {
         "label": "Stone Mountains",
         "description": "a chain of mountains in W Ashe and Watauga Counties, N.C., and Johnson County, Tenn., from the Watauga River near lat. 36°17'30\" N., long. 81°55' W., to the NW corner of North Carolina and thence into Virginia to Whitetop Mountain. They form the common boundary line of North Carolina and Tennessee. The name dates from as early as 1795.",
-        "feature_type": "Mountains",
+        "feature_type": "nct:Mountains",
         "county": [
           "Ashe County",
           "Watauga County"
         ],
-        "borders": "Watauga River"
+        "borders": {
+          "@id": "wd:Q2544418",
+          "label": "Watauga River"
+        }
       }
     },
     {
@@ -116,12 +130,15 @@
       "properties": {
         "label": "Tanasee Bald",
         "description": "mountain peak on the Haywood-Transylvania county line at the junction of Pisgah Ridge and Tanasee Ridge in Pisgah National Forest. Lat. 35°17'30\" N., long. 82°55'03\" W. Alt. 5,560. The Cherokee name for the peak was Tsul-ka-lu-tsu-na-gun-yi",
-        "feature_type": "Bald",
+        "feature_type": "nct:Bald",
         "county": [
           "Transylvania County",
           "Haywood County"
         ],
-        "located_within": "Pisgah National Forest"
+        "located_within": {
+          "@id": "wd:Q1817477",
+          "label": "Pisgah National Forest"
+        }
       }
     }
   ]
